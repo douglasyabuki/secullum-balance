@@ -1,0 +1,6579 @@
+{
+  "lista": [
+    {
+      "id": 33150,
+      "data": "2023-04-21T00:00:00",
+      "funcionarioNome": "Douglas Yuji Yabuki",
+      "batidas": [
+        {
+          "nome": "Entrance 1",
+          "valor": "07:51",
+          "valorOriginal": null,
+          "fonteDadosId": 15438,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 1",
+          "valor": "11:50",
+          "valorOriginal": null,
+          "fonteDadosId": 15439,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Entrance 2",
+          "valor": "14:18",
+          "valorOriginal": null,
+          "fonteDadosId": 15440,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 2",
+          "valor": "17:04",
+          "valorOriginal": null,
+          "fonteDadosId": 15441,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Entrance 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        }
+      ],
+      "valores": [
+        {
+          "nome": "Normal",
+          "nomeOriginal": "Normais",
+          "valor": ""
+        },
+        {
+          "nome": "Absences",
+          "nomeOriginal": "Faltas",
+          "valor": ""
+        },
+        {
+          "nome": "Ex50%",
+          "nomeOriginal": "Ex50%",
+          "valor": ""
+        },
+        {
+          "nome": "Ex100%",
+          "nomeOriginal": "Ex100%",
+          "valor": ""
+        },
+        {
+          "nome": "WPR",
+          "nomeOriginal": "DSR",
+          "valor": ""
+        },
+        {
+          "nome": "WPR.Debt",
+          "nomeOriginal": "DSR.Deb",
+          "valor": ""
+        },
+        {
+          "nome": "Noc.",
+          "nomeOriginal": "Not.",
+          "valor": ""
+        },
+        {
+          "nome": "EN50%",
+          "nomeOriginal": "EN50%",
+          "valor": ""
+        },
+        {
+          "nome": "EN100%",
+          "nomeOriginal": "EN100%",
+          "valor": ""
+        },
+        {
+          "nome": "Adjustment",
+          "nomeOriginal": "Ajuste",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus2",
+          "nomeOriginal": "Abono2",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus3",
+          "nomeOriginal": "Abono3",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus4",
+          "nomeOriginal": "Abono4",
+          "valor": ""
+        },
+        {
+          "nome": "Delay",
+          "nomeOriginal": "Atras.",
+          "valor": ""
+        },
+        {
+          "nome": "Advan.",
+          "nomeOriginal": "Adian.",
+          "valor": ""
+        },
+        {
+          "nome": "Load",
+          "nomeOriginal": "Carga",
+          "valor": ""
+        },
+        {
+          "nome": "JustPa.",
+          "nomeOriginal": "JustPa.",
+          "valor": ""
+        },
+        {
+          "nome": "T+/-",
+          "nomeOriginal": "T+/-",
+          "valor": ""
+        },
+        {
+          "nome": "ExInt",
+          "nomeOriginal": "ExInt",
+          "valor": ""
+        },
+        {
+          "nome": "BSaldo",
+          "nomeOriginal": "BSaldo",
+          "valor": "06:45"
+        },
+        {
+          "nome": "BTotal",
+          "nomeOriginal": "BTotal",
+          "valor": "06:45"
+        },
+        {
+          "nome": "BCred.",
+          "nomeOriginal": "BCred.",
+          "valor": "06:45"
+        },
+        {
+          "nome": "BDeb.",
+          "nomeOriginal": "BDeb.",
+          "valor": ""
+        },
+        {
+          "nome": "BAjus.",
+          "nomeOriginal": "BAjus.",
+          "valor": ""
+        },
+        {
+          "nome": "Not.Tot.",
+          "nomeOriginal": "Not.Tot.",
+          "valor": ""
+        },
+        {
+          "nome": "Meal",
+          "nomeOriginal": "Refeição",
+          "valor": ""
+        },
+        {
+          "nome": "Balance",
+          "nomeOriginal": "Saldo",
+          "valor": ""
+        }
+      ],
+      "saldo": "+00:00",
+      "situacao": 0,
+      "registroPendente": false,
+      "existePeriodoEncerrado": false
+    },
+    {
+      "id": 33031,
+      "data": "2023-04-22T00:00:00",
+      "funcionarioNome": "Douglas Yuji Yabuki",
+      "batidas": [
+        {
+          "nome": "Entrance 1",
+          "valor": "09:02",
+          "valorOriginal": "09:02",
+          "fonteDadosId": 15369,
+          "geolocalizacao": {
+            "latitude": -25.4425063,
+            "longitude": -49.2813265,
+            "precisao": 22.420000076293945,
+            "endereco": "Rua Coronel Dulcídio, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-04-22T09:02:41.6905849"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Exit 1",
+          "valor": "11:19",
+          "valorOriginal": "11:19",
+          "fonteDadosId": 15371,
+          "geolocalizacao": {
+            "latitude": -25.4425018,
+            "longitude": -49.2813109,
+            "precisao": 20.94499969482422,
+            "endereco": "Rua Coronel Dulcídio, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-04-22T11:19:41.3078713"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Entrance 2",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 2",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Entrance 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        }
+      ],
+      "valores": [
+        {
+          "nome": "Normal",
+          "nomeOriginal": "Normais",
+          "valor": ""
+        },
+        {
+          "nome": "Absences",
+          "nomeOriginal": "Faltas",
+          "valor": ""
+        },
+        {
+          "nome": "Ex50%",
+          "nomeOriginal": "Ex50%",
+          "valor": "00:17"
+        },
+        {
+          "nome": "Ex100%",
+          "nomeOriginal": "Ex100%",
+          "valor": ""
+        },
+        {
+          "nome": "WPR",
+          "nomeOriginal": "DSR",
+          "valor": ""
+        },
+        {
+          "nome": "WPR.Debt",
+          "nomeOriginal": "DSR.Deb",
+          "valor": ""
+        },
+        {
+          "nome": "Noc.",
+          "nomeOriginal": "Not.",
+          "valor": ""
+        },
+        {
+          "nome": "EN50%",
+          "nomeOriginal": "EN50%",
+          "valor": ""
+        },
+        {
+          "nome": "EN100%",
+          "nomeOriginal": "EN100%",
+          "valor": ""
+        },
+        {
+          "nome": "Adjustment",
+          "nomeOriginal": "Ajuste",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus2",
+          "nomeOriginal": "Abono2",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus3",
+          "nomeOriginal": "Abono3",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus4",
+          "nomeOriginal": "Abono4",
+          "valor": ""
+        },
+        {
+          "nome": "Delay",
+          "nomeOriginal": "Atras.",
+          "valor": ""
+        },
+        {
+          "nome": "Advan.",
+          "nomeOriginal": "Adian.",
+          "valor": ""
+        },
+        {
+          "nome": "Load",
+          "nomeOriginal": "Carga",
+          "valor": ""
+        },
+        {
+          "nome": "JustPa.",
+          "nomeOriginal": "JustPa.",
+          "valor": ""
+        },
+        {
+          "nome": "T+/-",
+          "nomeOriginal": "T+/-",
+          "valor": ""
+        },
+        {
+          "nome": "ExInt",
+          "nomeOriginal": "ExInt",
+          "valor": ""
+        },
+        {
+          "nome": "BSaldo",
+          "nomeOriginal": "BSaldo",
+          "valor": "08:45"
+        },
+        {
+          "nome": "BTotal",
+          "nomeOriginal": "BTotal",
+          "valor": "02:00"
+        },
+        {
+          "nome": "BCred.",
+          "nomeOriginal": "BCred.",
+          "valor": "02:00"
+        },
+        {
+          "nome": "BDeb.",
+          "nomeOriginal": "BDeb.",
+          "valor": ""
+        },
+        {
+          "nome": "BAjus.",
+          "nomeOriginal": "BAjus.",
+          "valor": ""
+        },
+        {
+          "nome": "Not.Tot.",
+          "nomeOriginal": "Not.Tot.",
+          "valor": ""
+        },
+        {
+          "nome": "Meal",
+          "nomeOriginal": "Refeição",
+          "valor": ""
+        },
+        {
+          "nome": "Balance",
+          "nomeOriginal": "Saldo",
+          "valor": "00:17"
+        }
+      ],
+      "saldo": "+00:17",
+      "situacao": 0,
+      "registroPendente": false,
+      "existePeriodoEncerrado": false
+    },
+    {
+      "id": 33030,
+      "data": "2023-04-23T00:00:00",
+      "funcionarioNome": "Douglas Yuji Yabuki",
+      "batidas": [
+        {
+          "nome": "Entrance 1",
+          "valor": "Day Off",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 1",
+          "valor": "Day Off",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Entrance 2",
+          "valor": "Day Off",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 2",
+          "valor": "Day Off",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Entrance 3",
+          "valor": "Day Off",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 3",
+          "valor": "Day Off",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        }
+      ],
+      "valores": [
+        {
+          "nome": "Normal",
+          "nomeOriginal": "Normais",
+          "valor": ""
+        },
+        {
+          "nome": "Absences",
+          "nomeOriginal": "Faltas",
+          "valor": ""
+        },
+        {
+          "nome": "Ex50%",
+          "nomeOriginal": "Ex50%",
+          "valor": ""
+        },
+        {
+          "nome": "Ex100%",
+          "nomeOriginal": "Ex100%",
+          "valor": ""
+        },
+        {
+          "nome": "WPR",
+          "nomeOriginal": "DSR",
+          "valor": "06:40"
+        },
+        {
+          "nome": "WPR.Debt",
+          "nomeOriginal": "DSR.Deb",
+          "valor": ""
+        },
+        {
+          "nome": "Noc.",
+          "nomeOriginal": "Not.",
+          "valor": ""
+        },
+        {
+          "nome": "EN50%",
+          "nomeOriginal": "EN50%",
+          "valor": ""
+        },
+        {
+          "nome": "EN100%",
+          "nomeOriginal": "EN100%",
+          "valor": ""
+        },
+        {
+          "nome": "Adjustment",
+          "nomeOriginal": "Ajuste",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus2",
+          "nomeOriginal": "Abono2",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus3",
+          "nomeOriginal": "Abono3",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus4",
+          "nomeOriginal": "Abono4",
+          "valor": ""
+        },
+        {
+          "nome": "Delay",
+          "nomeOriginal": "Atras.",
+          "valor": ""
+        },
+        {
+          "nome": "Advan.",
+          "nomeOriginal": "Adian.",
+          "valor": ""
+        },
+        {
+          "nome": "Load",
+          "nomeOriginal": "Carga",
+          "valor": ""
+        },
+        {
+          "nome": "JustPa.",
+          "nomeOriginal": "JustPa.",
+          "valor": ""
+        },
+        {
+          "nome": "T+/-",
+          "nomeOriginal": "T+/-",
+          "valor": ""
+        },
+        {
+          "nome": "ExInt",
+          "nomeOriginal": "ExInt",
+          "valor": ""
+        },
+        {
+          "nome": "BSaldo",
+          "nomeOriginal": "BSaldo",
+          "valor": "08:45"
+        },
+        {
+          "nome": "BTotal",
+          "nomeOriginal": "BTotal",
+          "valor": ""
+        },
+        {
+          "nome": "BCred.",
+          "nomeOriginal": "BCred.",
+          "valor": ""
+        },
+        {
+          "nome": "BDeb.",
+          "nomeOriginal": "BDeb.",
+          "valor": ""
+        },
+        {
+          "nome": "BAjus.",
+          "nomeOriginal": "BAjus.",
+          "valor": ""
+        },
+        {
+          "nome": "Not.Tot.",
+          "nomeOriginal": "Not.Tot.",
+          "valor": ""
+        },
+        {
+          "nome": "Meal",
+          "nomeOriginal": "Refeição",
+          "valor": ""
+        },
+        {
+          "nome": "Balance",
+          "nomeOriginal": "Saldo",
+          "valor": ""
+        }
+      ],
+      "saldo": "+00:00",
+      "situacao": 0,
+      "registroPendente": false,
+      "existePeriodoEncerrado": false
+    },
+    {
+      "id": 33055,
+      "data": "2023-04-24T00:00:00",
+      "funcionarioNome": "Douglas Yuji Yabuki",
+      "batidas": [
+        {
+          "nome": "Entrance 1",
+          "valor": "07:51",
+          "valorOriginal": "07:51",
+          "fonteDadosId": 15378,
+          "geolocalizacao": {
+            "latitude": -25.4437006,
+            "longitude": -49.2791387,
+            "precisao": 15.572999954223633,
+            "endereco": "Rua Pasteur, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-04-24T07:51:04.6267664"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Exit 1",
+          "valor": "12:00",
+          "valorOriginal": null,
+          "fonteDadosId": 15379,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Entrance 2",
+          "valor": "13:00",
+          "valorOriginal": null,
+          "fonteDadosId": 15380,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 2",
+          "valor": "16:59",
+          "valorOriginal": "16:59",
+          "fonteDadosId": 15455,
+          "geolocalizacao": {
+            "latitude": -25.4437867,
+            "longitude": -49.2791596,
+            "precisao": 17.87700080871582,
+            "endereco": "Rua Pasteur, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-04-24T16:59:34.7814309"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Entrance 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        }
+      ],
+      "valores": [
+        {
+          "nome": "Normal",
+          "nomeOriginal": "Normais",
+          "valor": "08:00"
+        },
+        {
+          "nome": "Absences",
+          "nomeOriginal": "Faltas",
+          "valor": ""
+        },
+        {
+          "nome": "Ex50%",
+          "nomeOriginal": "Ex50%",
+          "valor": ""
+        },
+        {
+          "nome": "Ex100%",
+          "nomeOriginal": "Ex100%",
+          "valor": ""
+        },
+        {
+          "nome": "WPR",
+          "nomeOriginal": "DSR",
+          "valor": ""
+        },
+        {
+          "nome": "WPR.Debt",
+          "nomeOriginal": "DSR.Deb",
+          "valor": ""
+        },
+        {
+          "nome": "Noc.",
+          "nomeOriginal": "Not.",
+          "valor": ""
+        },
+        {
+          "nome": "EN50%",
+          "nomeOriginal": "EN50%",
+          "valor": ""
+        },
+        {
+          "nome": "EN100%",
+          "nomeOriginal": "EN100%",
+          "valor": ""
+        },
+        {
+          "nome": "Adjustment",
+          "nomeOriginal": "Ajuste",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus2",
+          "nomeOriginal": "Abono2",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus3",
+          "nomeOriginal": "Abono3",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus4",
+          "nomeOriginal": "Abono4",
+          "valor": ""
+        },
+        {
+          "nome": "Delay",
+          "nomeOriginal": "Atras.",
+          "valor": ""
+        },
+        {
+          "nome": "Advan.",
+          "nomeOriginal": "Adian.",
+          "valor": ""
+        },
+        {
+          "nome": "Load",
+          "nomeOriginal": "Carga",
+          "valor": "08:00"
+        },
+        {
+          "nome": "JustPa.",
+          "nomeOriginal": "JustPa.",
+          "valor": ""
+        },
+        {
+          "nome": "T+/-",
+          "nomeOriginal": "T+/-",
+          "valor": ""
+        },
+        {
+          "nome": "ExInt",
+          "nomeOriginal": "ExInt",
+          "valor": ""
+        },
+        {
+          "nome": "BSaldo",
+          "nomeOriginal": "BSaldo",
+          "valor": "08:45"
+        },
+        {
+          "nome": "BTotal",
+          "nomeOriginal": "BTotal",
+          "valor": ""
+        },
+        {
+          "nome": "BCred.",
+          "nomeOriginal": "BCred.",
+          "valor": ""
+        },
+        {
+          "nome": "BDeb.",
+          "nomeOriginal": "BDeb.",
+          "valor": ""
+        },
+        {
+          "nome": "BAjus.",
+          "nomeOriginal": "BAjus.",
+          "valor": ""
+        },
+        {
+          "nome": "Not.Tot.",
+          "nomeOriginal": "Not.Tot.",
+          "valor": ""
+        },
+        {
+          "nome": "Meal",
+          "nomeOriginal": "Refeição",
+          "valor": ""
+        },
+        {
+          "nome": "Balance",
+          "nomeOriginal": "Saldo",
+          "valor": ""
+        }
+      ],
+      "saldo": "+00:00",
+      "situacao": 0,
+      "registroPendente": false,
+      "existePeriodoEncerrado": false
+    },
+    {
+      "id": 33203,
+      "data": "2023-04-25T00:00:00",
+      "funcionarioNome": "Douglas Yuji Yabuki",
+      "batidas": [
+        {
+          "nome": "Entrance 1",
+          "valor": "07:58",
+          "valorOriginal": "07:58",
+          "fonteDadosId": 15502,
+          "geolocalizacao": {
+            "latitude": -25.443749,
+            "longitude": -49.2792974,
+            "precisao": 45.00600051879883,
+            "endereco": "Rua Pasteur, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-04-25T07:58:07.9877998"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Exit 1",
+          "valor": "12:00",
+          "valorOriginal": null,
+          "fonteDadosId": 15503,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Entrance 2",
+          "valor": "13:00",
+          "valorOriginal": null,
+          "fonteDadosId": 15504,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 2",
+          "valor": "17:07",
+          "valorOriginal": "17:07",
+          "fonteDadosId": 15576,
+          "geolocalizacao": {
+            "latitude": -25.4437381,
+            "longitude": -49.2791691,
+            "precisao": 19.87700080871582,
+            "endereco": "Rua Pasteur, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-04-25T17:07:16.3633765"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Entrance 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        }
+      ],
+      "valores": [
+        {
+          "nome": "Normal",
+          "nomeOriginal": "Normais",
+          "valor": "08:00"
+        },
+        {
+          "nome": "Absences",
+          "nomeOriginal": "Faltas",
+          "valor": ""
+        },
+        {
+          "nome": "Ex50%",
+          "nomeOriginal": "Ex50%",
+          "valor": ""
+        },
+        {
+          "nome": "Ex100%",
+          "nomeOriginal": "Ex100%",
+          "valor": ""
+        },
+        {
+          "nome": "WPR",
+          "nomeOriginal": "DSR",
+          "valor": ""
+        },
+        {
+          "nome": "WPR.Debt",
+          "nomeOriginal": "DSR.Deb",
+          "valor": ""
+        },
+        {
+          "nome": "Noc.",
+          "nomeOriginal": "Not.",
+          "valor": ""
+        },
+        {
+          "nome": "EN50%",
+          "nomeOriginal": "EN50%",
+          "valor": ""
+        },
+        {
+          "nome": "EN100%",
+          "nomeOriginal": "EN100%",
+          "valor": ""
+        },
+        {
+          "nome": "Adjustment",
+          "nomeOriginal": "Ajuste",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus2",
+          "nomeOriginal": "Abono2",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus3",
+          "nomeOriginal": "Abono3",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus4",
+          "nomeOriginal": "Abono4",
+          "valor": ""
+        },
+        {
+          "nome": "Delay",
+          "nomeOriginal": "Atras.",
+          "valor": ""
+        },
+        {
+          "nome": "Advan.",
+          "nomeOriginal": "Adian.",
+          "valor": ""
+        },
+        {
+          "nome": "Load",
+          "nomeOriginal": "Carga",
+          "valor": "08:00"
+        },
+        {
+          "nome": "JustPa.",
+          "nomeOriginal": "JustPa.",
+          "valor": ""
+        },
+        {
+          "nome": "T+/-",
+          "nomeOriginal": "T+/-",
+          "valor": ""
+        },
+        {
+          "nome": "ExInt",
+          "nomeOriginal": "ExInt",
+          "valor": ""
+        },
+        {
+          "nome": "BSaldo",
+          "nomeOriginal": "BSaldo",
+          "valor": "08:45"
+        },
+        {
+          "nome": "BTotal",
+          "nomeOriginal": "BTotal",
+          "valor": ""
+        },
+        {
+          "nome": "BCred.",
+          "nomeOriginal": "BCred.",
+          "valor": ""
+        },
+        {
+          "nome": "BDeb.",
+          "nomeOriginal": "BDeb.",
+          "valor": ""
+        },
+        {
+          "nome": "BAjus.",
+          "nomeOriginal": "BAjus.",
+          "valor": ""
+        },
+        {
+          "nome": "Not.Tot.",
+          "nomeOriginal": "Not.Tot.",
+          "valor": ""
+        },
+        {
+          "nome": "Meal",
+          "nomeOriginal": "Refeição",
+          "valor": ""
+        },
+        {
+          "nome": "Balance",
+          "nomeOriginal": "Saldo",
+          "valor": ""
+        }
+      ],
+      "saldo": "+00:00",
+      "situacao": 0,
+      "registroPendente": false,
+      "existePeriodoEncerrado": false
+    },
+    {
+      "id": 33237,
+      "data": "2023-04-26T00:00:00",
+      "funcionarioNome": "Douglas Yuji Yabuki",
+      "batidas": [
+        {
+          "nome": "Entrance 1",
+          "valor": "07:17",
+          "valorOriginal": "07:17",
+          "fonteDadosId": 15608,
+          "geolocalizacao": {
+            "latitude": -25.4436736,
+            "longitude": -49.2791424,
+            "precisao": 16.304000854492188,
+            "endereco": "Rua Pasteur, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-04-26T07:17:40.6650969"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Exit 1",
+          "valor": "12:00",
+          "valorOriginal": null,
+          "fonteDadosId": 15609,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Entrance 2",
+          "valor": "13:00",
+          "valorOriginal": null,
+          "fonteDadosId": 15610,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 2",
+          "valor": "17:17",
+          "valorOriginal": "17:17",
+          "fonteDadosId": 15707,
+          "geolocalizacao": {
+            "latitude": -25.4437447,
+            "longitude": -49.2791308,
+            "precisao": 18.034000396728516,
+            "endereco": "Rua Pasteur, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-04-26T17:17:54.0856034"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Entrance 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        }
+      ],
+      "valores": [
+        {
+          "nome": "Normal",
+          "nomeOriginal": "Normais",
+          "valor": "08:00"
+        },
+        {
+          "nome": "Absences",
+          "nomeOriginal": "Faltas",
+          "valor": ""
+        },
+        {
+          "nome": "Ex50%",
+          "nomeOriginal": "Ex50%",
+          "valor": ""
+        },
+        {
+          "nome": "Ex100%",
+          "nomeOriginal": "Ex100%",
+          "valor": ""
+        },
+        {
+          "nome": "WPR",
+          "nomeOriginal": "DSR",
+          "valor": ""
+        },
+        {
+          "nome": "WPR.Debt",
+          "nomeOriginal": "DSR.Deb",
+          "valor": ""
+        },
+        {
+          "nome": "Noc.",
+          "nomeOriginal": "Not.",
+          "valor": ""
+        },
+        {
+          "nome": "EN50%",
+          "nomeOriginal": "EN50%",
+          "valor": ""
+        },
+        {
+          "nome": "EN100%",
+          "nomeOriginal": "EN100%",
+          "valor": ""
+        },
+        {
+          "nome": "Adjustment",
+          "nomeOriginal": "Ajuste",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus2",
+          "nomeOriginal": "Abono2",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus3",
+          "nomeOriginal": "Abono3",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus4",
+          "nomeOriginal": "Abono4",
+          "valor": ""
+        },
+        {
+          "nome": "Delay",
+          "nomeOriginal": "Atras.",
+          "valor": ""
+        },
+        {
+          "nome": "Advan.",
+          "nomeOriginal": "Adian.",
+          "valor": ""
+        },
+        {
+          "nome": "Load",
+          "nomeOriginal": "Carga",
+          "valor": "08:00"
+        },
+        {
+          "nome": "JustPa.",
+          "nomeOriginal": "JustPa.",
+          "valor": ""
+        },
+        {
+          "nome": "T+/-",
+          "nomeOriginal": "T+/-",
+          "valor": ""
+        },
+        {
+          "nome": "ExInt",
+          "nomeOriginal": "ExInt",
+          "valor": ""
+        },
+        {
+          "nome": "BSaldo",
+          "nomeOriginal": "BSaldo",
+          "valor": "09:45"
+        },
+        {
+          "nome": "BTotal",
+          "nomeOriginal": "BTotal",
+          "valor": "01:00"
+        },
+        {
+          "nome": "BCred.",
+          "nomeOriginal": "BCred.",
+          "valor": "01:00"
+        },
+        {
+          "nome": "BDeb.",
+          "nomeOriginal": "BDeb.",
+          "valor": ""
+        },
+        {
+          "nome": "BAjus.",
+          "nomeOriginal": "BAjus.",
+          "valor": ""
+        },
+        {
+          "nome": "Not.Tot.",
+          "nomeOriginal": "Not.Tot.",
+          "valor": ""
+        },
+        {
+          "nome": "Meal",
+          "nomeOriginal": "Refeição",
+          "valor": ""
+        },
+        {
+          "nome": "Balance",
+          "nomeOriginal": "Saldo",
+          "valor": ""
+        }
+      ],
+      "saldo": "+00:00",
+      "situacao": 0,
+      "registroPendente": false,
+      "existePeriodoEncerrado": false
+    },
+    {
+      "id": 33272,
+      "data": "2023-04-27T00:00:00",
+      "funcionarioNome": "Douglas Yuji Yabuki",
+      "batidas": [
+        {
+          "nome": "Entrance 1",
+          "valor": "07:38",
+          "valorOriginal": "07:38",
+          "fonteDadosId": 15736,
+          "geolocalizacao": {
+            "latitude": -25.4437213,
+            "longitude": -49.2791071,
+            "precisao": 18.547000885009766,
+            "endereco": "Rua Pasteur, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-04-27T07:38:05.495351"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Exit 1",
+          "valor": "12:00",
+          "valorOriginal": null,
+          "fonteDadosId": 15737,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Entrance 2",
+          "valor": "13:00",
+          "valorOriginal": null,
+          "fonteDadosId": 15738,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 2",
+          "valor": "17:57",
+          "valorOriginal": "17:57",
+          "fonteDadosId": 15834,
+          "geolocalizacao": {
+            "latitude": -25.4436148,
+            "longitude": -49.2791426,
+            "precisao": 14.803000450134277,
+            "endereco": "Rua Pasteur, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-04-27T17:57:04.1545418"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Entrance 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        }
+      ],
+      "valores": [
+        {
+          "nome": "Normal",
+          "nomeOriginal": "Normais",
+          "valor": "08:00"
+        },
+        {
+          "nome": "Absences",
+          "nomeOriginal": "Faltas",
+          "valor": ""
+        },
+        {
+          "nome": "Ex50%",
+          "nomeOriginal": "Ex50%",
+          "valor": ""
+        },
+        {
+          "nome": "Ex100%",
+          "nomeOriginal": "Ex100%",
+          "valor": ""
+        },
+        {
+          "nome": "WPR",
+          "nomeOriginal": "DSR",
+          "valor": ""
+        },
+        {
+          "nome": "WPR.Debt",
+          "nomeOriginal": "DSR.Deb",
+          "valor": ""
+        },
+        {
+          "nome": "Noc.",
+          "nomeOriginal": "Not.",
+          "valor": ""
+        },
+        {
+          "nome": "EN50%",
+          "nomeOriginal": "EN50%",
+          "valor": ""
+        },
+        {
+          "nome": "EN100%",
+          "nomeOriginal": "EN100%",
+          "valor": ""
+        },
+        {
+          "nome": "Adjustment",
+          "nomeOriginal": "Ajuste",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus2",
+          "nomeOriginal": "Abono2",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus3",
+          "nomeOriginal": "Abono3",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus4",
+          "nomeOriginal": "Abono4",
+          "valor": ""
+        },
+        {
+          "nome": "Delay",
+          "nomeOriginal": "Atras.",
+          "valor": ""
+        },
+        {
+          "nome": "Advan.",
+          "nomeOriginal": "Adian.",
+          "valor": ""
+        },
+        {
+          "nome": "Load",
+          "nomeOriginal": "Carga",
+          "valor": "08:00"
+        },
+        {
+          "nome": "JustPa.",
+          "nomeOriginal": "JustPa.",
+          "valor": ""
+        },
+        {
+          "nome": "T+/-",
+          "nomeOriginal": "T+/-",
+          "valor": ""
+        },
+        {
+          "nome": "ExInt",
+          "nomeOriginal": "ExInt",
+          "valor": ""
+        },
+        {
+          "nome": "BSaldo",
+          "nomeOriginal": "BSaldo",
+          "valor": "11:04"
+        },
+        {
+          "nome": "BTotal",
+          "nomeOriginal": "BTotal",
+          "valor": "01:19"
+        },
+        {
+          "nome": "BCred.",
+          "nomeOriginal": "BCred.",
+          "valor": "01:19"
+        },
+        {
+          "nome": "BDeb.",
+          "nomeOriginal": "BDeb.",
+          "valor": ""
+        },
+        {
+          "nome": "BAjus.",
+          "nomeOriginal": "BAjus.",
+          "valor": ""
+        },
+        {
+          "nome": "Not.Tot.",
+          "nomeOriginal": "Not.Tot.",
+          "valor": ""
+        },
+        {
+          "nome": "Meal",
+          "nomeOriginal": "Refeição",
+          "valor": ""
+        },
+        {
+          "nome": "Balance",
+          "nomeOriginal": "Saldo",
+          "valor": ""
+        }
+      ],
+      "saldo": "+00:00",
+      "situacao": 0,
+      "registroPendente": false,
+      "existePeriodoEncerrado": false
+    },
+    {
+      "id": 33309,
+      "data": "2023-04-28T00:00:00",
+      "funcionarioNome": "Douglas Yuji Yabuki",
+      "batidas": [
+        {
+          "nome": "Entrance 1",
+          "valor": "07:28",
+          "valorOriginal": "07:28",
+          "fonteDadosId": 15851,
+          "geolocalizacao": {
+            "latitude": -25.4436892,
+            "longitude": -49.2791177,
+            "precisao": 17.86400032043457,
+            "endereco": "Rua Pasteur, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-04-28T07:28:00.1709615"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Exit 1",
+          "valor": "12:00",
+          "valorOriginal": null,
+          "fonteDadosId": 15852,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Entrance 2",
+          "valor": "13:00",
+          "valorOriginal": null,
+          "fonteDadosId": 15853,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 2",
+          "valor": "17:05",
+          "valorOriginal": "17:05",
+          "fonteDadosId": 15946,
+          "geolocalizacao": {
+            "latitude": -25.4436787,
+            "longitude": -49.27908,
+            "precisao": 19.25200080871582,
+            "endereco": "Rua Pasteur, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-04-28T17:05:51.5377439"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Entrance 3",
+          "valor": "17:14",
+          "valorOriginal": "17:14",
+          "fonteDadosId": 15948,
+          "geolocalizacao": {
+            "latitude": -25.4425233,
+            "longitude": -49.2813469,
+            "precisao": 18.40399932861328,
+            "endereco": "Rua Pasteur, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-04-28T17:14:53.3510809"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Exit 3",
+          "valor": "19:18",
+          "valorOriginal": "19:18",
+          "fonteDadosId": 15964,
+          "geolocalizacao": {
+            "latitude": -25.442525,
+            "longitude": -49.2813165,
+            "precisao": 27.59000015258789,
+            "endereco": "Rua Coronel Dulcídio, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-04-28T19:18:15.9176322"
+          },
+          "ehRepP": true
+        }
+      ],
+      "valores": [
+        {
+          "nome": "Normal",
+          "nomeOriginal": "Normais",
+          "valor": "08:00"
+        },
+        {
+          "nome": "Absences",
+          "nomeOriginal": "Faltas",
+          "valor": ""
+        },
+        {
+          "nome": "Ex50%",
+          "nomeOriginal": "Ex50%",
+          "valor": "00:36"
+        },
+        {
+          "nome": "Ex100%",
+          "nomeOriginal": "Ex100%",
+          "valor": ""
+        },
+        {
+          "nome": "WPR",
+          "nomeOriginal": "DSR",
+          "valor": ""
+        },
+        {
+          "nome": "WPR.Debt",
+          "nomeOriginal": "DSR.Deb",
+          "valor": ""
+        },
+        {
+          "nome": "Noc.",
+          "nomeOriginal": "Not.",
+          "valor": ""
+        },
+        {
+          "nome": "EN50%",
+          "nomeOriginal": "EN50%",
+          "valor": ""
+        },
+        {
+          "nome": "EN100%",
+          "nomeOriginal": "EN100%",
+          "valor": ""
+        },
+        {
+          "nome": "Adjustment",
+          "nomeOriginal": "Ajuste",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus2",
+          "nomeOriginal": "Abono2",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus3",
+          "nomeOriginal": "Abono3",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus4",
+          "nomeOriginal": "Abono4",
+          "valor": ""
+        },
+        {
+          "nome": "Delay",
+          "nomeOriginal": "Atras.",
+          "valor": ""
+        },
+        {
+          "nome": "Advan.",
+          "nomeOriginal": "Adian.",
+          "valor": ""
+        },
+        {
+          "nome": "Load",
+          "nomeOriginal": "Carga",
+          "valor": "08:00"
+        },
+        {
+          "nome": "JustPa.",
+          "nomeOriginal": "JustPa.",
+          "valor": ""
+        },
+        {
+          "nome": "T+/-",
+          "nomeOriginal": "T+/-",
+          "valor": ""
+        },
+        {
+          "nome": "ExInt",
+          "nomeOriginal": "ExInt",
+          "valor": ""
+        },
+        {
+          "nome": "BSaldo",
+          "nomeOriginal": "BSaldo",
+          "valor": "13:04"
+        },
+        {
+          "nome": "BTotal",
+          "nomeOriginal": "BTotal",
+          "valor": "02:00"
+        },
+        {
+          "nome": "BCred.",
+          "nomeOriginal": "BCred.",
+          "valor": "02:00"
+        },
+        {
+          "nome": "BDeb.",
+          "nomeOriginal": "BDeb.",
+          "valor": ""
+        },
+        {
+          "nome": "BAjus.",
+          "nomeOriginal": "BAjus.",
+          "valor": ""
+        },
+        {
+          "nome": "Not.Tot.",
+          "nomeOriginal": "Not.Tot.",
+          "valor": ""
+        },
+        {
+          "nome": "Meal",
+          "nomeOriginal": "Refeição",
+          "valor": ""
+        },
+        {
+          "nome": "Balance",
+          "nomeOriginal": "Saldo",
+          "valor": "00:36"
+        }
+      ],
+      "saldo": "+00:36",
+      "situacao": 0,
+      "registroPendente": false,
+      "existePeriodoEncerrado": false
+    },
+    {
+      "id": 33415,
+      "data": "2023-04-29T00:00:00",
+      "funcionarioNome": "Douglas Yuji Yabuki",
+      "batidas": [
+        {
+          "nome": "Entrance 1",
+          "valor": "06:10",
+          "valorOriginal": null,
+          "fonteDadosId": 16408,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 1",
+          "valor": "10:01",
+          "valorOriginal": null,
+          "fonteDadosId": 16409,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Entrance 2",
+          "valor": "13:16",
+          "valorOriginal": null,
+          "fonteDadosId": 16410,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 2",
+          "valor": "16:12",
+          "valorOriginal": null,
+          "fonteDadosId": 16411,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Entrance 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        }
+      ],
+      "valores": [
+        {
+          "nome": "Normal",
+          "nomeOriginal": "Normais",
+          "valor": ""
+        },
+        {
+          "nome": "Absences",
+          "nomeOriginal": "Faltas",
+          "valor": ""
+        },
+        {
+          "nome": "Ex50%",
+          "nomeOriginal": "Ex50%",
+          "valor": "04:47"
+        },
+        {
+          "nome": "Ex100%",
+          "nomeOriginal": "Ex100%",
+          "valor": ""
+        },
+        {
+          "nome": "WPR",
+          "nomeOriginal": "DSR",
+          "valor": ""
+        },
+        {
+          "nome": "WPR.Debt",
+          "nomeOriginal": "DSR.Deb",
+          "valor": ""
+        },
+        {
+          "nome": "Noc.",
+          "nomeOriginal": "Not.",
+          "valor": ""
+        },
+        {
+          "nome": "EN50%",
+          "nomeOriginal": "EN50%",
+          "valor": ""
+        },
+        {
+          "nome": "EN100%",
+          "nomeOriginal": "EN100%",
+          "valor": ""
+        },
+        {
+          "nome": "Adjustment",
+          "nomeOriginal": "Ajuste",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus2",
+          "nomeOriginal": "Abono2",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus3",
+          "nomeOriginal": "Abono3",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus4",
+          "nomeOriginal": "Abono4",
+          "valor": ""
+        },
+        {
+          "nome": "Delay",
+          "nomeOriginal": "Atras.",
+          "valor": ""
+        },
+        {
+          "nome": "Advan.",
+          "nomeOriginal": "Adian.",
+          "valor": ""
+        },
+        {
+          "nome": "Load",
+          "nomeOriginal": "Carga",
+          "valor": ""
+        },
+        {
+          "nome": "JustPa.",
+          "nomeOriginal": "JustPa.",
+          "valor": ""
+        },
+        {
+          "nome": "T+/-",
+          "nomeOriginal": "T+/-",
+          "valor": ""
+        },
+        {
+          "nome": "ExInt",
+          "nomeOriginal": "ExInt",
+          "valor": ""
+        },
+        {
+          "nome": "BSaldo",
+          "nomeOriginal": "BSaldo",
+          "valor": "15:04"
+        },
+        {
+          "nome": "BTotal",
+          "nomeOriginal": "BTotal",
+          "valor": "02:00"
+        },
+        {
+          "nome": "BCred.",
+          "nomeOriginal": "BCred.",
+          "valor": "02:00"
+        },
+        {
+          "nome": "BDeb.",
+          "nomeOriginal": "BDeb.",
+          "valor": ""
+        },
+        {
+          "nome": "BAjus.",
+          "nomeOriginal": "BAjus.",
+          "valor": ""
+        },
+        {
+          "nome": "Not.Tot.",
+          "nomeOriginal": "Not.Tot.",
+          "valor": ""
+        },
+        {
+          "nome": "Meal",
+          "nomeOriginal": "Refeição",
+          "valor": ""
+        },
+        {
+          "nome": "Balance",
+          "nomeOriginal": "Saldo",
+          "valor": "04:47"
+        }
+      ],
+      "saldo": "+04:47",
+      "situacao": 0,
+      "registroPendente": false,
+      "existePeriodoEncerrado": false
+    },
+    {
+      "id": 33416,
+      "data": "2023-04-30T00:00:00",
+      "funcionarioNome": "Douglas Yuji Yabuki",
+      "batidas": [
+        {
+          "nome": "Entrance 1",
+          "valor": "07:31",
+          "valorOriginal": null,
+          "fonteDadosId": 16406,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 1",
+          "valor": "11:13",
+          "valorOriginal": null,
+          "fonteDadosId": 16407,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Entrance 2",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 2",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Entrance 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        }
+      ],
+      "valores": [
+        {
+          "nome": "Normal",
+          "nomeOriginal": "Normais",
+          "valor": ""
+        },
+        {
+          "nome": "Absences",
+          "nomeOriginal": "Faltas",
+          "valor": ""
+        },
+        {
+          "nome": "Ex50%",
+          "nomeOriginal": "Ex50%",
+          "valor": ""
+        },
+        {
+          "nome": "Ex100%",
+          "nomeOriginal": "Ex100%",
+          "valor": ""
+        },
+        {
+          "nome": "WPR",
+          "nomeOriginal": "DSR",
+          "valor": "06:40"
+        },
+        {
+          "nome": "WPR.Debt",
+          "nomeOriginal": "DSR.Deb",
+          "valor": ""
+        },
+        {
+          "nome": "Noc.",
+          "nomeOriginal": "Not.",
+          "valor": ""
+        },
+        {
+          "nome": "EN50%",
+          "nomeOriginal": "EN50%",
+          "valor": ""
+        },
+        {
+          "nome": "EN100%",
+          "nomeOriginal": "EN100%",
+          "valor": ""
+        },
+        {
+          "nome": "Adjustment",
+          "nomeOriginal": "Ajuste",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus2",
+          "nomeOriginal": "Abono2",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus3",
+          "nomeOriginal": "Abono3",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus4",
+          "nomeOriginal": "Abono4",
+          "valor": ""
+        },
+        {
+          "nome": "Delay",
+          "nomeOriginal": "Atras.",
+          "valor": ""
+        },
+        {
+          "nome": "Advan.",
+          "nomeOriginal": "Adian.",
+          "valor": ""
+        },
+        {
+          "nome": "Load",
+          "nomeOriginal": "Carga",
+          "valor": ""
+        },
+        {
+          "nome": "JustPa.",
+          "nomeOriginal": "JustPa.",
+          "valor": ""
+        },
+        {
+          "nome": "T+/-",
+          "nomeOriginal": "T+/-",
+          "valor": ""
+        },
+        {
+          "nome": "ExInt",
+          "nomeOriginal": "ExInt",
+          "valor": ""
+        },
+        {
+          "nome": "BSaldo",
+          "nomeOriginal": "BSaldo",
+          "valor": "18:46"
+        },
+        {
+          "nome": "BTotal",
+          "nomeOriginal": "BTotal",
+          "valor": "03:42"
+        },
+        {
+          "nome": "BCred.",
+          "nomeOriginal": "BCred.",
+          "valor": "03:42"
+        },
+        {
+          "nome": "BDeb.",
+          "nomeOriginal": "BDeb.",
+          "valor": ""
+        },
+        {
+          "nome": "BAjus.",
+          "nomeOriginal": "BAjus.",
+          "valor": ""
+        },
+        {
+          "nome": "Not.Tot.",
+          "nomeOriginal": "Not.Tot.",
+          "valor": ""
+        },
+        {
+          "nome": "Meal",
+          "nomeOriginal": "Refeição",
+          "valor": ""
+        },
+        {
+          "nome": "Balance",
+          "nomeOriginal": "Saldo",
+          "valor": ""
+        }
+      ],
+      "saldo": "+00:00",
+      "situacao": 0,
+      "registroPendente": false,
+      "existePeriodoEncerrado": false
+    },
+    {
+      "id": 33417,
+      "data": "2023-05-01T00:00:00",
+      "funcionarioNome": "Douglas Yuji Yabuki",
+      "batidas": [
+        {
+          "nome": "Entrance 1",
+          "valor": "06:00",
+          "valorOriginal": null,
+          "fonteDadosId": 16400,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 1",
+          "valor": "09:46",
+          "valorOriginal": null,
+          "fonteDadosId": 16401,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Entrance 2",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 2",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Entrance 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        }
+      ],
+      "valores": [
+        {
+          "nome": "Normal",
+          "nomeOriginal": "Normais",
+          "valor": ""
+        },
+        {
+          "nome": "Absences",
+          "nomeOriginal": "Faltas",
+          "valor": ""
+        },
+        {
+          "nome": "Ex50%",
+          "nomeOriginal": "Ex50%",
+          "valor": ""
+        },
+        {
+          "nome": "Ex100%",
+          "nomeOriginal": "Ex100%",
+          "valor": ""
+        },
+        {
+          "nome": "WPR",
+          "nomeOriginal": "DSR",
+          "valor": ""
+        },
+        {
+          "nome": "WPR.Debt",
+          "nomeOriginal": "DSR.Deb",
+          "valor": ""
+        },
+        {
+          "nome": "Noc.",
+          "nomeOriginal": "Not.",
+          "valor": ""
+        },
+        {
+          "nome": "EN50%",
+          "nomeOriginal": "EN50%",
+          "valor": ""
+        },
+        {
+          "nome": "EN100%",
+          "nomeOriginal": "EN100%",
+          "valor": ""
+        },
+        {
+          "nome": "Adjustment",
+          "nomeOriginal": "Ajuste",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus2",
+          "nomeOriginal": "Abono2",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus3",
+          "nomeOriginal": "Abono3",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus4",
+          "nomeOriginal": "Abono4",
+          "valor": ""
+        },
+        {
+          "nome": "Delay",
+          "nomeOriginal": "Atras.",
+          "valor": ""
+        },
+        {
+          "nome": "Advan.",
+          "nomeOriginal": "Adian.",
+          "valor": ""
+        },
+        {
+          "nome": "Load",
+          "nomeOriginal": "Carga",
+          "valor": ""
+        },
+        {
+          "nome": "JustPa.",
+          "nomeOriginal": "JustPa.",
+          "valor": ""
+        },
+        {
+          "nome": "T+/-",
+          "nomeOriginal": "T+/-",
+          "valor": ""
+        },
+        {
+          "nome": "ExInt",
+          "nomeOriginal": "ExInt",
+          "valor": ""
+        },
+        {
+          "nome": "BSaldo",
+          "nomeOriginal": "BSaldo",
+          "valor": "22:32"
+        },
+        {
+          "nome": "BTotal",
+          "nomeOriginal": "BTotal",
+          "valor": "03:46"
+        },
+        {
+          "nome": "BCred.",
+          "nomeOriginal": "BCred.",
+          "valor": "03:46"
+        },
+        {
+          "nome": "BDeb.",
+          "nomeOriginal": "BDeb.",
+          "valor": ""
+        },
+        {
+          "nome": "BAjus.",
+          "nomeOriginal": "BAjus.",
+          "valor": ""
+        },
+        {
+          "nome": "Not.Tot.",
+          "nomeOriginal": "Not.Tot.",
+          "valor": ""
+        },
+        {
+          "nome": "Meal",
+          "nomeOriginal": "Refeição",
+          "valor": ""
+        },
+        {
+          "nome": "Balance",
+          "nomeOriginal": "Saldo",
+          "valor": ""
+        }
+      ],
+      "saldo": "+00:00",
+      "situacao": 0,
+      "registroPendente": false,
+      "existePeriodoEncerrado": false
+    },
+    {
+      "id": 33418,
+      "data": "2023-05-02T00:00:00",
+      "funcionarioNome": "Douglas Yuji Yabuki",
+      "batidas": [
+        {
+          "nome": "Entrance 1",
+          "valor": "07:31",
+          "valorOriginal": null,
+          "fonteDadosId": 16373,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 1",
+          "valor": "12:00",
+          "valorOriginal": null,
+          "fonteDadosId": 16028,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Entrance 2",
+          "valor": "13:00",
+          "valorOriginal": null,
+          "fonteDadosId": 16029,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 2",
+          "valor": "21:09",
+          "valorOriginal": "21:09",
+          "fonteDadosId": 16027,
+          "geolocalizacao": {
+            "latitude": -25.4436519,
+            "longitude": -49.2791194,
+            "precisao": 15.196999549865723,
+            "endereco": "Rua Pasteur, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-05-02T21:09:52.2922115"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Entrance 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        }
+      ],
+      "valores": [
+        {
+          "nome": "Normal",
+          "nomeOriginal": "Normais",
+          "valor": "08:00"
+        },
+        {
+          "nome": "Absences",
+          "nomeOriginal": "Faltas",
+          "valor": ""
+        },
+        {
+          "nome": "Ex50%",
+          "nomeOriginal": "Ex50%",
+          "valor": "02:38"
+        },
+        {
+          "nome": "Ex100%",
+          "nomeOriginal": "Ex100%",
+          "valor": ""
+        },
+        {
+          "nome": "WPR",
+          "nomeOriginal": "DSR",
+          "valor": ""
+        },
+        {
+          "nome": "WPR.Debt",
+          "nomeOriginal": "DSR.Deb",
+          "valor": ""
+        },
+        {
+          "nome": "Noc.",
+          "nomeOriginal": "Not.",
+          "valor": ""
+        },
+        {
+          "nome": "EN50%",
+          "nomeOriginal": "EN50%",
+          "valor": ""
+        },
+        {
+          "nome": "EN100%",
+          "nomeOriginal": "EN100%",
+          "valor": ""
+        },
+        {
+          "nome": "Adjustment",
+          "nomeOriginal": "Ajuste",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus2",
+          "nomeOriginal": "Abono2",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus3",
+          "nomeOriginal": "Abono3",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus4",
+          "nomeOriginal": "Abono4",
+          "valor": ""
+        },
+        {
+          "nome": "Delay",
+          "nomeOriginal": "Atras.",
+          "valor": ""
+        },
+        {
+          "nome": "Advan.",
+          "nomeOriginal": "Adian.",
+          "valor": ""
+        },
+        {
+          "nome": "Load",
+          "nomeOriginal": "Carga",
+          "valor": "08:00"
+        },
+        {
+          "nome": "JustPa.",
+          "nomeOriginal": "JustPa.",
+          "valor": ""
+        },
+        {
+          "nome": "T+/-",
+          "nomeOriginal": "T+/-",
+          "valor": ""
+        },
+        {
+          "nome": "ExInt",
+          "nomeOriginal": "ExInt",
+          "valor": ""
+        },
+        {
+          "nome": "BSaldo",
+          "nomeOriginal": "BSaldo",
+          "valor": "24:32"
+        },
+        {
+          "nome": "BTotal",
+          "nomeOriginal": "BTotal",
+          "valor": "02:00"
+        },
+        {
+          "nome": "BCred.",
+          "nomeOriginal": "BCred.",
+          "valor": "02:00"
+        },
+        {
+          "nome": "BDeb.",
+          "nomeOriginal": "BDeb.",
+          "valor": ""
+        },
+        {
+          "nome": "BAjus.",
+          "nomeOriginal": "BAjus.",
+          "valor": ""
+        },
+        {
+          "nome": "Not.Tot.",
+          "nomeOriginal": "Not.Tot.",
+          "valor": ""
+        },
+        {
+          "nome": "Meal",
+          "nomeOriginal": "Refeição",
+          "valor": ""
+        },
+        {
+          "nome": "Balance",
+          "nomeOriginal": "Saldo",
+          "valor": "02:38"
+        }
+      ],
+      "saldo": "+02:38",
+      "situacao": 0,
+      "registroPendente": false,
+      "existePeriodoEncerrado": false
+    },
+    {
+      "id": 33436,
+      "data": "2023-05-03T00:00:00",
+      "funcionarioNome": "Douglas Yuji Yabuki",
+      "batidas": [
+        {
+          "nome": "Entrance 1",
+          "valor": "07:30",
+          "valorOriginal": null,
+          "fonteDadosId": 16359,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 1",
+          "valor": "12:00",
+          "valorOriginal": null,
+          "fonteDadosId": 16146,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Entrance 2",
+          "valor": "13:00",
+          "valorOriginal": null,
+          "fonteDadosId": 16147,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 2",
+          "valor": "18:34",
+          "valorOriginal": "18:34",
+          "fonteDadosId": 16145,
+          "geolocalizacao": {
+            "latitude": -25.4424875,
+            "longitude": -49.2817486,
+            "precisao": 23.295000076293945,
+            "endereco": "Rua Coronel Dulcídio, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-05-03T18:34:18.860893"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Entrance 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        }
+      ],
+      "valores": [
+        {
+          "nome": "Normal",
+          "nomeOriginal": "Normais",
+          "valor": "08:00"
+        },
+        {
+          "nome": "Absences",
+          "nomeOriginal": "Faltas",
+          "valor": ""
+        },
+        {
+          "nome": "Ex50%",
+          "nomeOriginal": "Ex50%",
+          "valor": "00:04"
+        },
+        {
+          "nome": "Ex100%",
+          "nomeOriginal": "Ex100%",
+          "valor": ""
+        },
+        {
+          "nome": "WPR",
+          "nomeOriginal": "DSR",
+          "valor": ""
+        },
+        {
+          "nome": "WPR.Debt",
+          "nomeOriginal": "DSR.Deb",
+          "valor": ""
+        },
+        {
+          "nome": "Noc.",
+          "nomeOriginal": "Not.",
+          "valor": ""
+        },
+        {
+          "nome": "EN50%",
+          "nomeOriginal": "EN50%",
+          "valor": ""
+        },
+        {
+          "nome": "EN100%",
+          "nomeOriginal": "EN100%",
+          "valor": ""
+        },
+        {
+          "nome": "Adjustment",
+          "nomeOriginal": "Ajuste",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus2",
+          "nomeOriginal": "Abono2",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus3",
+          "nomeOriginal": "Abono3",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus4",
+          "nomeOriginal": "Abono4",
+          "valor": ""
+        },
+        {
+          "nome": "Delay",
+          "nomeOriginal": "Atras.",
+          "valor": ""
+        },
+        {
+          "nome": "Advan.",
+          "nomeOriginal": "Adian.",
+          "valor": ""
+        },
+        {
+          "nome": "Load",
+          "nomeOriginal": "Carga",
+          "valor": "08:00"
+        },
+        {
+          "nome": "JustPa.",
+          "nomeOriginal": "JustPa.",
+          "valor": ""
+        },
+        {
+          "nome": "T+/-",
+          "nomeOriginal": "T+/-",
+          "valor": ""
+        },
+        {
+          "nome": "ExInt",
+          "nomeOriginal": "ExInt",
+          "valor": ""
+        },
+        {
+          "nome": "BSaldo",
+          "nomeOriginal": "BSaldo",
+          "valor": "26:32"
+        },
+        {
+          "nome": "BTotal",
+          "nomeOriginal": "BTotal",
+          "valor": "02:00"
+        },
+        {
+          "nome": "BCred.",
+          "nomeOriginal": "BCred.",
+          "valor": "02:00"
+        },
+        {
+          "nome": "BDeb.",
+          "nomeOriginal": "BDeb.",
+          "valor": ""
+        },
+        {
+          "nome": "BAjus.",
+          "nomeOriginal": "BAjus.",
+          "valor": ""
+        },
+        {
+          "nome": "Not.Tot.",
+          "nomeOriginal": "Not.Tot.",
+          "valor": ""
+        },
+        {
+          "nome": "Meal",
+          "nomeOriginal": "Refeição",
+          "valor": ""
+        },
+        {
+          "nome": "Balance",
+          "nomeOriginal": "Saldo",
+          "valor": "00:04"
+        }
+      ],
+      "saldo": "+00:04",
+      "situacao": 0,
+      "registroPendente": false,
+      "existePeriodoEncerrado": false
+    },
+    {
+      "id": 33494,
+      "data": "2023-05-04T00:00:00",
+      "funcionarioNome": "Douglas Yuji Yabuki",
+      "batidas": [
+        {
+          "nome": "Entrance 1",
+          "valor": "07:06",
+          "valorOriginal": "07:06",
+          "fonteDadosId": 16154,
+          "geolocalizacao": {
+            "latitude": -25.4436651,
+            "longitude": -49.279158,
+            "precisao": 18.573999404907227,
+            "endereco": "Rua Pasteur, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-05-04T07:06:53.8141046"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Exit 1",
+          "valor": "12:00",
+          "valorOriginal": null,
+          "fonteDadosId": 16155,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Entrance 2",
+          "valor": "13:00",
+          "valorOriginal": null,
+          "fonteDadosId": 16156,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 2",
+          "valor": "18:30",
+          "valorOriginal": "18:30",
+          "fonteDadosId": 16258,
+          "geolocalizacao": {
+            "latitude": -25.4436999,
+            "longitude": -49.2791202,
+            "precisao": 15.32699966430664,
+            "endereco": "Rua Pasteur, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-05-04T18:30:22.4669556"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Entrance 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        }
+      ],
+      "valores": [
+        {
+          "nome": "Normal",
+          "nomeOriginal": "Normais",
+          "valor": "08:00"
+        },
+        {
+          "nome": "Absences",
+          "nomeOriginal": "Faltas",
+          "valor": ""
+        },
+        {
+          "nome": "Ex50%",
+          "nomeOriginal": "Ex50%",
+          "valor": "00:24"
+        },
+        {
+          "nome": "Ex100%",
+          "nomeOriginal": "Ex100%",
+          "valor": ""
+        },
+        {
+          "nome": "WPR",
+          "nomeOriginal": "DSR",
+          "valor": ""
+        },
+        {
+          "nome": "WPR.Debt",
+          "nomeOriginal": "DSR.Deb",
+          "valor": ""
+        },
+        {
+          "nome": "Noc.",
+          "nomeOriginal": "Not.",
+          "valor": ""
+        },
+        {
+          "nome": "EN50%",
+          "nomeOriginal": "EN50%",
+          "valor": ""
+        },
+        {
+          "nome": "EN100%",
+          "nomeOriginal": "EN100%",
+          "valor": ""
+        },
+        {
+          "nome": "Adjustment",
+          "nomeOriginal": "Ajuste",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus2",
+          "nomeOriginal": "Abono2",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus3",
+          "nomeOriginal": "Abono3",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus4",
+          "nomeOriginal": "Abono4",
+          "valor": ""
+        },
+        {
+          "nome": "Delay",
+          "nomeOriginal": "Atras.",
+          "valor": ""
+        },
+        {
+          "nome": "Advan.",
+          "nomeOriginal": "Adian.",
+          "valor": ""
+        },
+        {
+          "nome": "Load",
+          "nomeOriginal": "Carga",
+          "valor": "08:00"
+        },
+        {
+          "nome": "JustPa.",
+          "nomeOriginal": "JustPa.",
+          "valor": ""
+        },
+        {
+          "nome": "T+/-",
+          "nomeOriginal": "T+/-",
+          "valor": ""
+        },
+        {
+          "nome": "ExInt",
+          "nomeOriginal": "ExInt",
+          "valor": ""
+        },
+        {
+          "nome": "BSaldo",
+          "nomeOriginal": "BSaldo",
+          "valor": "28:32"
+        },
+        {
+          "nome": "BTotal",
+          "nomeOriginal": "BTotal",
+          "valor": "02:00"
+        },
+        {
+          "nome": "BCred.",
+          "nomeOriginal": "BCred.",
+          "valor": "02:00"
+        },
+        {
+          "nome": "BDeb.",
+          "nomeOriginal": "BDeb.",
+          "valor": ""
+        },
+        {
+          "nome": "BAjus.",
+          "nomeOriginal": "BAjus.",
+          "valor": ""
+        },
+        {
+          "nome": "Not.Tot.",
+          "nomeOriginal": "Not.Tot.",
+          "valor": ""
+        },
+        {
+          "nome": "Meal",
+          "nomeOriginal": "Refeição",
+          "valor": ""
+        },
+        {
+          "nome": "Balance",
+          "nomeOriginal": "Saldo",
+          "valor": "00:24"
+        }
+      ],
+      "saldo": "+00:24",
+      "situacao": 0,
+      "registroPendente": false,
+      "existePeriodoEncerrado": false
+    },
+    {
+      "id": 33544,
+      "data": "2023-05-05T00:00:00",
+      "funcionarioNome": "Douglas Yuji Yabuki",
+      "batidas": [
+        {
+          "nome": "Entrance 1",
+          "valor": "08:00",
+          "valorOriginal": "08:00",
+          "fonteDadosId": 16299,
+          "geolocalizacao": {
+            "latitude": -25.443671,
+            "longitude": -49.279122,
+            "precisao": 13.109000205993652,
+            "endereco": "Rua Pasteur, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-05-05T08:00:59.56559"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Exit 1",
+          "valor": "12:00",
+          "valorOriginal": null,
+          "fonteDadosId": 16300,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Entrance 2",
+          "valor": "13:00",
+          "valorOriginal": null,
+          "fonteDadosId": 16301,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 2",
+          "valor": "17:47",
+          "valorOriginal": "17:47",
+          "fonteDadosId": 16471,
+          "geolocalizacao": {
+            "latitude": -25.4436644,
+            "longitude": -49.2791312,
+            "precisao": 16.19099998474121,
+            "endereco": "Rua Pasteur, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-05-05T17:47:17.9248567"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Entrance 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        }
+      ],
+      "valores": [
+        {
+          "nome": "Normal",
+          "nomeOriginal": "Normais",
+          "valor": "08:00"
+        },
+        {
+          "nome": "Absences",
+          "nomeOriginal": "Faltas",
+          "valor": ""
+        },
+        {
+          "nome": "Ex50%",
+          "nomeOriginal": "Ex50%",
+          "valor": ""
+        },
+        {
+          "nome": "Ex100%",
+          "nomeOriginal": "Ex100%",
+          "valor": ""
+        },
+        {
+          "nome": "WPR",
+          "nomeOriginal": "DSR",
+          "valor": ""
+        },
+        {
+          "nome": "WPR.Debt",
+          "nomeOriginal": "DSR.Deb",
+          "valor": ""
+        },
+        {
+          "nome": "Noc.",
+          "nomeOriginal": "Not.",
+          "valor": ""
+        },
+        {
+          "nome": "EN50%",
+          "nomeOriginal": "EN50%",
+          "valor": ""
+        },
+        {
+          "nome": "EN100%",
+          "nomeOriginal": "EN100%",
+          "valor": ""
+        },
+        {
+          "nome": "Adjustment",
+          "nomeOriginal": "Ajuste",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus2",
+          "nomeOriginal": "Abono2",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus3",
+          "nomeOriginal": "Abono3",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus4",
+          "nomeOriginal": "Abono4",
+          "valor": ""
+        },
+        {
+          "nome": "Delay",
+          "nomeOriginal": "Atras.",
+          "valor": ""
+        },
+        {
+          "nome": "Advan.",
+          "nomeOriginal": "Adian.",
+          "valor": ""
+        },
+        {
+          "nome": "Load",
+          "nomeOriginal": "Carga",
+          "valor": "08:00"
+        },
+        {
+          "nome": "JustPa.",
+          "nomeOriginal": "JustPa.",
+          "valor": ""
+        },
+        {
+          "nome": "T+/-",
+          "nomeOriginal": "T+/-",
+          "valor": ""
+        },
+        {
+          "nome": "ExInt",
+          "nomeOriginal": "ExInt",
+          "valor": ""
+        },
+        {
+          "nome": "BSaldo",
+          "nomeOriginal": "BSaldo",
+          "valor": "29:19"
+        },
+        {
+          "nome": "BTotal",
+          "nomeOriginal": "BTotal",
+          "valor": "00:47"
+        },
+        {
+          "nome": "BCred.",
+          "nomeOriginal": "BCred.",
+          "valor": "00:47"
+        },
+        {
+          "nome": "BDeb.",
+          "nomeOriginal": "BDeb.",
+          "valor": ""
+        },
+        {
+          "nome": "BAjus.",
+          "nomeOriginal": "BAjus.",
+          "valor": ""
+        },
+        {
+          "nome": "Not.Tot.",
+          "nomeOriginal": "Not.Tot.",
+          "valor": ""
+        },
+        {
+          "nome": "Meal",
+          "nomeOriginal": "Refeição",
+          "valor": ""
+        },
+        {
+          "nome": "Balance",
+          "nomeOriginal": "Saldo",
+          "valor": ""
+        }
+      ],
+      "saldo": "+00:00",
+      "situacao": 0,
+      "registroPendente": false,
+      "existePeriodoEncerrado": false
+    },
+    {
+      "id": 33594,
+      "data": "2023-05-06T00:00:00",
+      "funcionarioNome": "Douglas Yuji Yabuki",
+      "batidas": [
+        {
+          "nome": "Entrance 1",
+          "valor": "07:08",
+          "valorOriginal": "07:08",
+          "fonteDadosId": 16482,
+          "geolocalizacao": {
+            "latitude": -25.4424868,
+            "longitude": -49.2812852,
+            "precisao": 17.770999908447266,
+            "endereco": "Rua Coronel Dulcídio, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-05-06T07:08:13.9786517"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Exit 1",
+          "valor": "10:14",
+          "valorOriginal": "10:14",
+          "fonteDadosId": 16486,
+          "geolocalizacao": {
+            "latitude": -25.4425232,
+            "longitude": -49.2813656,
+            "precisao": 24.888999938964844,
+            "endereco": "Rua Coronel Dulcídio, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-05-06T10:14:59.6899989"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Entrance 2",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 2",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Entrance 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        }
+      ],
+      "valores": [
+        {
+          "nome": "Normal",
+          "nomeOriginal": "Normais",
+          "valor": ""
+        },
+        {
+          "nome": "Absences",
+          "nomeOriginal": "Faltas",
+          "valor": ""
+        },
+        {
+          "nome": "Ex50%",
+          "nomeOriginal": "Ex50%",
+          "valor": "01:06"
+        },
+        {
+          "nome": "Ex100%",
+          "nomeOriginal": "Ex100%",
+          "valor": ""
+        },
+        {
+          "nome": "WPR",
+          "nomeOriginal": "DSR",
+          "valor": ""
+        },
+        {
+          "nome": "WPR.Debt",
+          "nomeOriginal": "DSR.Deb",
+          "valor": ""
+        },
+        {
+          "nome": "Noc.",
+          "nomeOriginal": "Not.",
+          "valor": ""
+        },
+        {
+          "nome": "EN50%",
+          "nomeOriginal": "EN50%",
+          "valor": ""
+        },
+        {
+          "nome": "EN100%",
+          "nomeOriginal": "EN100%",
+          "valor": ""
+        },
+        {
+          "nome": "Adjustment",
+          "nomeOriginal": "Ajuste",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus2",
+          "nomeOriginal": "Abono2",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus3",
+          "nomeOriginal": "Abono3",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus4",
+          "nomeOriginal": "Abono4",
+          "valor": ""
+        },
+        {
+          "nome": "Delay",
+          "nomeOriginal": "Atras.",
+          "valor": ""
+        },
+        {
+          "nome": "Advan.",
+          "nomeOriginal": "Adian.",
+          "valor": ""
+        },
+        {
+          "nome": "Load",
+          "nomeOriginal": "Carga",
+          "valor": ""
+        },
+        {
+          "nome": "JustPa.",
+          "nomeOriginal": "JustPa.",
+          "valor": ""
+        },
+        {
+          "nome": "T+/-",
+          "nomeOriginal": "T+/-",
+          "valor": ""
+        },
+        {
+          "nome": "ExInt",
+          "nomeOriginal": "ExInt",
+          "valor": ""
+        },
+        {
+          "nome": "BSaldo",
+          "nomeOriginal": "BSaldo",
+          "valor": "31:19"
+        },
+        {
+          "nome": "BTotal",
+          "nomeOriginal": "BTotal",
+          "valor": "02:00"
+        },
+        {
+          "nome": "BCred.",
+          "nomeOriginal": "BCred.",
+          "valor": "02:00"
+        },
+        {
+          "nome": "BDeb.",
+          "nomeOriginal": "BDeb.",
+          "valor": ""
+        },
+        {
+          "nome": "BAjus.",
+          "nomeOriginal": "BAjus.",
+          "valor": ""
+        },
+        {
+          "nome": "Not.Tot.",
+          "nomeOriginal": "Not.Tot.",
+          "valor": ""
+        },
+        {
+          "nome": "Meal",
+          "nomeOriginal": "Refeição",
+          "valor": ""
+        },
+        {
+          "nome": "Balance",
+          "nomeOriginal": "Saldo",
+          "valor": "01:06"
+        }
+      ],
+      "saldo": "+01:06",
+      "situacao": 0,
+      "registroPendente": false,
+      "existePeriodoEncerrado": false
+    },
+    {
+      "id": 33593,
+      "data": "2023-05-07T00:00:00",
+      "funcionarioNome": "Douglas Yuji Yabuki",
+      "batidas": [
+        {
+          "nome": "Entrance 1",
+          "valor": "07:10",
+          "valorOriginal": "07:10",
+          "fonteDadosId": 16492,
+          "geolocalizacao": {
+            "latitude": -25.4425504,
+            "longitude": -49.2813768,
+            "precisao": 22.95599937438965,
+            "endereco": "Rua Coronel Dulcídio, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-05-07T07:10:44.7111217"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Exit 1",
+          "valor": "11:23",
+          "valorOriginal": "11:23",
+          "fonteDadosId": 16493,
+          "geolocalizacao": {
+            "latitude": -25.4425405,
+            "longitude": -49.2813366,
+            "precisao": 20.832000732421875,
+            "endereco": "Rua Coronel Dulcídio, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-05-07T11:23:04.2212665"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Entrance 2",
+          "valor": "16:05",
+          "valorOriginal": "16:05",
+          "fonteDadosId": 16494,
+          "geolocalizacao": {
+            "latitude": -25.4425614,
+            "longitude": -49.2813659,
+            "precisao": 22.27899932861328,
+            "endereco": "Rua Coronel Dulcídio, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-05-07T16:05:28.2057323"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Exit 2",
+          "valor": "18:42",
+          "valorOriginal": "18:42",
+          "fonteDadosId": 16495,
+          "geolocalizacao": {
+            "latitude": -25.4425384,
+            "longitude": -49.2813634,
+            "precisao": 20.295000076293945,
+            "endereco": "Rua Coronel Dulcídio, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-05-07T18:42:31.9565251"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Entrance 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        }
+      ],
+      "valores": [
+        {
+          "nome": "Normal",
+          "nomeOriginal": "Normais",
+          "valor": ""
+        },
+        {
+          "nome": "Absences",
+          "nomeOriginal": "Faltas",
+          "valor": ""
+        },
+        {
+          "nome": "Ex50%",
+          "nomeOriginal": "Ex50%",
+          "valor": ""
+        },
+        {
+          "nome": "Ex100%",
+          "nomeOriginal": "Ex100%",
+          "valor": ""
+        },
+        {
+          "nome": "WPR",
+          "nomeOriginal": "DSR",
+          "valor": "06:40"
+        },
+        {
+          "nome": "WPR.Debt",
+          "nomeOriginal": "DSR.Deb",
+          "valor": ""
+        },
+        {
+          "nome": "Noc.",
+          "nomeOriginal": "Not.",
+          "valor": ""
+        },
+        {
+          "nome": "EN50%",
+          "nomeOriginal": "EN50%",
+          "valor": ""
+        },
+        {
+          "nome": "EN100%",
+          "nomeOriginal": "EN100%",
+          "valor": ""
+        },
+        {
+          "nome": "Adjustment",
+          "nomeOriginal": "Ajuste",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus2",
+          "nomeOriginal": "Abono2",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus3",
+          "nomeOriginal": "Abono3",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus4",
+          "nomeOriginal": "Abono4",
+          "valor": ""
+        },
+        {
+          "nome": "Delay",
+          "nomeOriginal": "Atras.",
+          "valor": ""
+        },
+        {
+          "nome": "Advan.",
+          "nomeOriginal": "Adian.",
+          "valor": ""
+        },
+        {
+          "nome": "Load",
+          "nomeOriginal": "Carga",
+          "valor": ""
+        },
+        {
+          "nome": "JustPa.",
+          "nomeOriginal": "JustPa.",
+          "valor": ""
+        },
+        {
+          "nome": "T+/-",
+          "nomeOriginal": "T+/-",
+          "valor": ""
+        },
+        {
+          "nome": "ExInt",
+          "nomeOriginal": "ExInt",
+          "valor": ""
+        },
+        {
+          "nome": "BSaldo",
+          "nomeOriginal": "BSaldo",
+          "valor": "38:09"
+        },
+        {
+          "nome": "BTotal",
+          "nomeOriginal": "BTotal",
+          "valor": "06:50"
+        },
+        {
+          "nome": "BCred.",
+          "nomeOriginal": "BCred.",
+          "valor": "06:50"
+        },
+        {
+          "nome": "BDeb.",
+          "nomeOriginal": "BDeb.",
+          "valor": ""
+        },
+        {
+          "nome": "BAjus.",
+          "nomeOriginal": "BAjus.",
+          "valor": ""
+        },
+        {
+          "nome": "Not.Tot.",
+          "nomeOriginal": "Not.Tot.",
+          "valor": ""
+        },
+        {
+          "nome": "Meal",
+          "nomeOriginal": "Refeição",
+          "valor": ""
+        },
+        {
+          "nome": "Balance",
+          "nomeOriginal": "Saldo",
+          "valor": ""
+        }
+      ],
+      "saldo": "+00:00",
+      "situacao": 0,
+      "registroPendente": false,
+      "existePeriodoEncerrado": false
+    },
+    {
+      "id": 33610,
+      "data": "2023-05-08T00:00:00",
+      "funcionarioNome": "Douglas Yuji Yabuki",
+      "batidas": [
+        {
+          "nome": "Entrance 1",
+          "valor": "07:47",
+          "valorOriginal": "07:47",
+          "fonteDadosId": 16505,
+          "geolocalizacao": {
+            "latitude": -25.4437006,
+            "longitude": -49.2791726,
+            "precisao": 20.72599983215332,
+            "endereco": "Rua Pasteur, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-05-08T07:47:52.9924436"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Exit 1",
+          "valor": "12:00",
+          "valorOriginal": null,
+          "fonteDadosId": 16506,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Entrance 2",
+          "valor": "13:00",
+          "valorOriginal": null,
+          "fonteDadosId": 16507,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 2",
+          "valor": "17:05",
+          "valorOriginal": "17:05",
+          "fonteDadosId": 16618,
+          "geolocalizacao": {
+            "latitude": -25.4436625,
+            "longitude": -49.2792346,
+            "precisao": 17.365999221801758,
+            "endereco": "Rua Pasteur, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-05-08T17:05:05.5893201"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Entrance 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        }
+      ],
+      "valores": [
+        {
+          "nome": "Normal",
+          "nomeOriginal": "Normais",
+          "valor": "08:00"
+        },
+        {
+          "nome": "Absences",
+          "nomeOriginal": "Faltas",
+          "valor": ""
+        },
+        {
+          "nome": "Ex50%",
+          "nomeOriginal": "Ex50%",
+          "valor": ""
+        },
+        {
+          "nome": "Ex100%",
+          "nomeOriginal": "Ex100%",
+          "valor": ""
+        },
+        {
+          "nome": "WPR",
+          "nomeOriginal": "DSR",
+          "valor": ""
+        },
+        {
+          "nome": "WPR.Debt",
+          "nomeOriginal": "DSR.Deb",
+          "valor": ""
+        },
+        {
+          "nome": "Noc.",
+          "nomeOriginal": "Not.",
+          "valor": ""
+        },
+        {
+          "nome": "EN50%",
+          "nomeOriginal": "EN50%",
+          "valor": ""
+        },
+        {
+          "nome": "EN100%",
+          "nomeOriginal": "EN100%",
+          "valor": ""
+        },
+        {
+          "nome": "Adjustment",
+          "nomeOriginal": "Ajuste",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus2",
+          "nomeOriginal": "Abono2",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus3",
+          "nomeOriginal": "Abono3",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus4",
+          "nomeOriginal": "Abono4",
+          "valor": ""
+        },
+        {
+          "nome": "Delay",
+          "nomeOriginal": "Atras.",
+          "valor": ""
+        },
+        {
+          "nome": "Advan.",
+          "nomeOriginal": "Adian.",
+          "valor": ""
+        },
+        {
+          "nome": "Load",
+          "nomeOriginal": "Carga",
+          "valor": "08:00"
+        },
+        {
+          "nome": "JustPa.",
+          "nomeOriginal": "JustPa.",
+          "valor": ""
+        },
+        {
+          "nome": "T+/-",
+          "nomeOriginal": "T+/-",
+          "valor": ""
+        },
+        {
+          "nome": "ExInt",
+          "nomeOriginal": "ExInt",
+          "valor": ""
+        },
+        {
+          "nome": "BSaldo",
+          "nomeOriginal": "BSaldo",
+          "valor": "38:22"
+        },
+        {
+          "nome": "BTotal",
+          "nomeOriginal": "BTotal",
+          "valor": "00:13"
+        },
+        {
+          "nome": "BCred.",
+          "nomeOriginal": "BCred.",
+          "valor": "00:13"
+        },
+        {
+          "nome": "BDeb.",
+          "nomeOriginal": "BDeb.",
+          "valor": ""
+        },
+        {
+          "nome": "BAjus.",
+          "nomeOriginal": "BAjus.",
+          "valor": ""
+        },
+        {
+          "nome": "Not.Tot.",
+          "nomeOriginal": "Not.Tot.",
+          "valor": ""
+        },
+        {
+          "nome": "Meal",
+          "nomeOriginal": "Refeição",
+          "valor": ""
+        },
+        {
+          "nome": "Balance",
+          "nomeOriginal": "Saldo",
+          "valor": ""
+        }
+      ],
+      "saldo": "+00:00",
+      "situacao": 0,
+      "registroPendente": false,
+      "existePeriodoEncerrado": false
+    },
+    {
+      "id": 33675,
+      "data": "2023-05-09T00:00:00",
+      "funcionarioNome": "Douglas Yuji Yabuki",
+      "batidas": [
+        {
+          "nome": "Entrance 1",
+          "valor": "07:54",
+          "valorOriginal": "07:54",
+          "fonteDadosId": 16652,
+          "geolocalizacao": {
+            "latitude": -25.4436436,
+            "longitude": -49.2790251,
+            "precisao": 15.152999877929688,
+            "endereco": "Rua Pasteur, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-05-09T07:54:52.5784212"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Exit 1",
+          "valor": "12:00",
+          "valorOriginal": null,
+          "fonteDadosId": 16653,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Entrance 2",
+          "valor": "13:00",
+          "valorOriginal": null,
+          "fonteDadosId": 16654,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 2",
+          "valor": "17:00",
+          "valorOriginal": "17:00",
+          "fonteDadosId": 16745,
+          "geolocalizacao": {
+            "latitude": -25.4437484,
+            "longitude": -49.2790844,
+            "precisao": 19.663000106811523,
+            "endereco": "Rua Pasteur, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-05-09T17:00:16.6949716"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Entrance 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        }
+      ],
+      "valores": [
+        {
+          "nome": "Normal",
+          "nomeOriginal": "Normais",
+          "valor": "08:00"
+        },
+        {
+          "nome": "Absences",
+          "nomeOriginal": "Faltas",
+          "valor": ""
+        },
+        {
+          "nome": "Ex50%",
+          "nomeOriginal": "Ex50%",
+          "valor": ""
+        },
+        {
+          "nome": "Ex100%",
+          "nomeOriginal": "Ex100%",
+          "valor": ""
+        },
+        {
+          "nome": "WPR",
+          "nomeOriginal": "DSR",
+          "valor": ""
+        },
+        {
+          "nome": "WPR.Debt",
+          "nomeOriginal": "DSR.Deb",
+          "valor": ""
+        },
+        {
+          "nome": "Noc.",
+          "nomeOriginal": "Not.",
+          "valor": ""
+        },
+        {
+          "nome": "EN50%",
+          "nomeOriginal": "EN50%",
+          "valor": ""
+        },
+        {
+          "nome": "EN100%",
+          "nomeOriginal": "EN100%",
+          "valor": ""
+        },
+        {
+          "nome": "Adjustment",
+          "nomeOriginal": "Ajuste",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus2",
+          "nomeOriginal": "Abono2",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus3",
+          "nomeOriginal": "Abono3",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus4",
+          "nomeOriginal": "Abono4",
+          "valor": ""
+        },
+        {
+          "nome": "Delay",
+          "nomeOriginal": "Atras.",
+          "valor": ""
+        },
+        {
+          "nome": "Advan.",
+          "nomeOriginal": "Adian.",
+          "valor": ""
+        },
+        {
+          "nome": "Load",
+          "nomeOriginal": "Carga",
+          "valor": "08:00"
+        },
+        {
+          "nome": "JustPa.",
+          "nomeOriginal": "JustPa.",
+          "valor": ""
+        },
+        {
+          "nome": "T+/-",
+          "nomeOriginal": "T+/-",
+          "valor": ""
+        },
+        {
+          "nome": "ExInt",
+          "nomeOriginal": "ExInt",
+          "valor": ""
+        },
+        {
+          "nome": "BSaldo",
+          "nomeOriginal": "BSaldo",
+          "valor": "38:22"
+        },
+        {
+          "nome": "BTotal",
+          "nomeOriginal": "BTotal",
+          "valor": ""
+        },
+        {
+          "nome": "BCred.",
+          "nomeOriginal": "BCred.",
+          "valor": ""
+        },
+        {
+          "nome": "BDeb.",
+          "nomeOriginal": "BDeb.",
+          "valor": ""
+        },
+        {
+          "nome": "BAjus.",
+          "nomeOriginal": "BAjus.",
+          "valor": ""
+        },
+        {
+          "nome": "Not.Tot.",
+          "nomeOriginal": "Not.Tot.",
+          "valor": ""
+        },
+        {
+          "nome": "Meal",
+          "nomeOriginal": "Refeição",
+          "valor": ""
+        },
+        {
+          "nome": "Balance",
+          "nomeOriginal": "Saldo",
+          "valor": ""
+        }
+      ],
+      "saldo": "+00:00",
+      "situacao": 0,
+      "registroPendente": false,
+      "existePeriodoEncerrado": false
+    },
+    {
+      "id": 33712,
+      "data": "2023-05-10T00:00:00",
+      "funcionarioNome": "Douglas Yuji Yabuki",
+      "batidas": [
+        {
+          "nome": "Entrance 1",
+          "valor": "07:37",
+          "valorOriginal": "07:37",
+          "fonteDadosId": 16775,
+          "geolocalizacao": {
+            "latitude": -25.4436715,
+            "longitude": -49.2791959,
+            "precisao": 23.66900062561035,
+            "endereco": "Rua Pasteur, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-05-10T07:37:31.6063683"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Exit 1",
+          "valor": "12:00",
+          "valorOriginal": null,
+          "fonteDadosId": 16776,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Entrance 2",
+          "valor": "13:00",
+          "valorOriginal": null,
+          "fonteDadosId": 16777,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 2",
+          "valor": "17:34",
+          "valorOriginal": "17:34",
+          "fonteDadosId": 16879,
+          "geolocalizacao": {
+            "latitude": -25.4436633,
+            "longitude": -49.2791056,
+            "precisao": 15.8149995803833,
+            "endereco": "Rua Pasteur, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-05-10T17:34:51.3835665"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Entrance 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        }
+      ],
+      "valores": [
+        {
+          "nome": "Normal",
+          "nomeOriginal": "Normais",
+          "valor": "08:00"
+        },
+        {
+          "nome": "Absences",
+          "nomeOriginal": "Faltas",
+          "valor": ""
+        },
+        {
+          "nome": "Ex50%",
+          "nomeOriginal": "Ex50%",
+          "valor": ""
+        },
+        {
+          "nome": "Ex100%",
+          "nomeOriginal": "Ex100%",
+          "valor": ""
+        },
+        {
+          "nome": "WPR",
+          "nomeOriginal": "DSR",
+          "valor": ""
+        },
+        {
+          "nome": "WPR.Debt",
+          "nomeOriginal": "DSR.Deb",
+          "valor": ""
+        },
+        {
+          "nome": "Noc.",
+          "nomeOriginal": "Not.",
+          "valor": ""
+        },
+        {
+          "nome": "EN50%",
+          "nomeOriginal": "EN50%",
+          "valor": ""
+        },
+        {
+          "nome": "EN100%",
+          "nomeOriginal": "EN100%",
+          "valor": ""
+        },
+        {
+          "nome": "Adjustment",
+          "nomeOriginal": "Ajuste",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus2",
+          "nomeOriginal": "Abono2",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus3",
+          "nomeOriginal": "Abono3",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus4",
+          "nomeOriginal": "Abono4",
+          "valor": ""
+        },
+        {
+          "nome": "Delay",
+          "nomeOriginal": "Atras.",
+          "valor": ""
+        },
+        {
+          "nome": "Advan.",
+          "nomeOriginal": "Adian.",
+          "valor": ""
+        },
+        {
+          "nome": "Load",
+          "nomeOriginal": "Carga",
+          "valor": "08:00"
+        },
+        {
+          "nome": "JustPa.",
+          "nomeOriginal": "JustPa.",
+          "valor": ""
+        },
+        {
+          "nome": "T+/-",
+          "nomeOriginal": "T+/-",
+          "valor": ""
+        },
+        {
+          "nome": "ExInt",
+          "nomeOriginal": "ExInt",
+          "valor": ""
+        },
+        {
+          "nome": "BSaldo",
+          "nomeOriginal": "BSaldo",
+          "valor": "39:19"
+        },
+        {
+          "nome": "BTotal",
+          "nomeOriginal": "BTotal",
+          "valor": "00:57"
+        },
+        {
+          "nome": "BCred.",
+          "nomeOriginal": "BCred.",
+          "valor": "00:57"
+        },
+        {
+          "nome": "BDeb.",
+          "nomeOriginal": "BDeb.",
+          "valor": ""
+        },
+        {
+          "nome": "BAjus.",
+          "nomeOriginal": "BAjus.",
+          "valor": ""
+        },
+        {
+          "nome": "Not.Tot.",
+          "nomeOriginal": "Not.Tot.",
+          "valor": ""
+        },
+        {
+          "nome": "Meal",
+          "nomeOriginal": "Refeição",
+          "valor": ""
+        },
+        {
+          "nome": "Balance",
+          "nomeOriginal": "Saldo",
+          "valor": ""
+        }
+      ],
+      "saldo": "+00:00",
+      "situacao": 0,
+      "registroPendente": false,
+      "existePeriodoEncerrado": false
+    },
+    {
+      "id": 33748,
+      "data": "2023-05-11T00:00:00",
+      "funcionarioNome": "Douglas Yuji Yabuki",
+      "batidas": [
+        {
+          "nome": "Entrance 1",
+          "valor": "07:50",
+          "valorOriginal": "07:50",
+          "fonteDadosId": 16904,
+          "geolocalizacao": {
+            "latitude": -25.4437014,
+            "longitude": -49.2791171,
+            "precisao": 15.815999984741211,
+            "endereco": "Rua Pasteur, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-05-11T07:50:25.9142623"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Exit 1",
+          "valor": "10:50",
+          "valorOriginal": "10:50",
+          "fonteDadosId": 16986,
+          "geolocalizacao": {
+            "latitude": -25.4438132,
+            "longitude": -49.2790317,
+            "precisao": 12.218000411987305,
+            "endereco": "Rua Pasteur, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-05-11T10:50:47.0146157"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Entrance 2",
+          "valor": "10:57",
+          "valorOriginal": "10:57",
+          "fonteDadosId": 16987,
+          "geolocalizacao": {
+            "latitude": -25.4424991,
+            "longitude": -49.2813279,
+            "precisao": 20.72599983215332,
+            "endereco": "Rua Coronel Dulcídio, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-05-11T10:57:17.066"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Exit 2",
+          "valor": "12:00",
+          "valorOriginal": null,
+          "fonteDadosId": 16905,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Entrance 3",
+          "valor": "13:00",
+          "valorOriginal": null,
+          "fonteDadosId": 16906,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 3",
+          "valor": "16:55",
+          "valorOriginal": "16:55",
+          "fonteDadosId": 17017,
+          "geolocalizacao": {
+            "latitude": -25.4425251,
+            "longitude": -49.2813071,
+            "precisao": 20.73200035095215,
+            "endereco": "Rua Coronel Dulcídio, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-05-11T16:55:48.9141359"
+          },
+          "ehRepP": true
+        }
+      ],
+      "valores": [
+        {
+          "nome": "Normal",
+          "nomeOriginal": "Normais",
+          "valor": "08:00"
+        },
+        {
+          "nome": "Absences",
+          "nomeOriginal": "Faltas",
+          "valor": ""
+        },
+        {
+          "nome": "Ex50%",
+          "nomeOriginal": "Ex50%",
+          "valor": ""
+        },
+        {
+          "nome": "Ex100%",
+          "nomeOriginal": "Ex100%",
+          "valor": ""
+        },
+        {
+          "nome": "WPR",
+          "nomeOriginal": "DSR",
+          "valor": ""
+        },
+        {
+          "nome": "WPR.Debt",
+          "nomeOriginal": "DSR.Deb",
+          "valor": ""
+        },
+        {
+          "nome": "Noc.",
+          "nomeOriginal": "Not.",
+          "valor": ""
+        },
+        {
+          "nome": "EN50%",
+          "nomeOriginal": "EN50%",
+          "valor": ""
+        },
+        {
+          "nome": "EN100%",
+          "nomeOriginal": "EN100%",
+          "valor": ""
+        },
+        {
+          "nome": "Adjustment",
+          "nomeOriginal": "Ajuste",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus2",
+          "nomeOriginal": "Abono2",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus3",
+          "nomeOriginal": "Abono3",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus4",
+          "nomeOriginal": "Abono4",
+          "valor": ""
+        },
+        {
+          "nome": "Delay",
+          "nomeOriginal": "Atras.",
+          "valor": ""
+        },
+        {
+          "nome": "Advan.",
+          "nomeOriginal": "Adian.",
+          "valor": ""
+        },
+        {
+          "nome": "Load",
+          "nomeOriginal": "Carga",
+          "valor": "08:00"
+        },
+        {
+          "nome": "JustPa.",
+          "nomeOriginal": "JustPa.",
+          "valor": ""
+        },
+        {
+          "nome": "T+/-",
+          "nomeOriginal": "T+/-",
+          "valor": ""
+        },
+        {
+          "nome": "ExInt",
+          "nomeOriginal": "ExInt",
+          "valor": ""
+        },
+        {
+          "nome": "BSaldo",
+          "nomeOriginal": "BSaldo",
+          "valor": "39:19"
+        },
+        {
+          "nome": "BTotal",
+          "nomeOriginal": "BTotal",
+          "valor": ""
+        },
+        {
+          "nome": "BCred.",
+          "nomeOriginal": "BCred.",
+          "valor": ""
+        },
+        {
+          "nome": "BDeb.",
+          "nomeOriginal": "BDeb.",
+          "valor": ""
+        },
+        {
+          "nome": "BAjus.",
+          "nomeOriginal": "BAjus.",
+          "valor": ""
+        },
+        {
+          "nome": "Not.Tot.",
+          "nomeOriginal": "Not.Tot.",
+          "valor": ""
+        },
+        {
+          "nome": "Meal",
+          "nomeOriginal": "Refeição",
+          "valor": ""
+        },
+        {
+          "nome": "Balance",
+          "nomeOriginal": "Saldo",
+          "valor": ""
+        }
+      ],
+      "saldo": "+00:00",
+      "situacao": 0,
+      "registroPendente": false,
+      "existePeriodoEncerrado": false
+    },
+    {
+      "id": 33783,
+      "data": "2023-05-12T00:00:00",
+      "funcionarioNome": "Douglas Yuji Yabuki",
+      "batidas": [
+        {
+          "nome": "Entrance 1",
+          "valor": "07:59",
+          "valorOriginal": "07:59",
+          "fonteDadosId": 17065,
+          "geolocalizacao": {
+            "latitude": -25.4436801,
+            "longitude": -49.2791238,
+            "precisao": 14.352999687194824,
+            "endereco": "Rua Pasteur, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-05-12T07:59:21.033096"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Exit 1",
+          "valor": "12:00",
+          "valorOriginal": null,
+          "fonteDadosId": 17066,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Entrance 2",
+          "valor": "13:00",
+          "valorOriginal": null,
+          "fonteDadosId": 17067,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 2",
+          "valor": "16:51",
+          "valorOriginal": "16:51",
+          "fonteDadosId": 17146,
+          "geolocalizacao": {
+            "latitude": -25.4436654,
+            "longitude": -49.2791686,
+            "precisao": 28.416000366210938,
+            "endereco": "Rua Pasteur, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-05-12T16:51:30.2476595"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Entrance 3",
+          "valor": "17:50",
+          "valorOriginal": "17:50",
+          "fonteDadosId": 17174,
+          "geolocalizacao": {
+            "latitude": -25.4436671,
+            "longitude": -49.2791704,
+            "precisao": 20.141000747680664,
+            "endereco": "Rua Pasteur, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-05-12T17:50:55.3217227"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Exit 3",
+          "valor": "18:53",
+          "valorOriginal": "18:53",
+          "fonteDadosId": 17180,
+          "geolocalizacao": {
+            "latitude": -25.4436774,
+            "longitude": -49.2791188,
+            "precisao": 16.9689998626709,
+            "endereco": "Rua Pasteur, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-05-12T18:53:42.9597716"
+          },
+          "ehRepP": true
+        }
+      ],
+      "valores": [
+        {
+          "nome": "Normal",
+          "nomeOriginal": "Normais",
+          "valor": "08:00"
+        },
+        {
+          "nome": "Absences",
+          "nomeOriginal": "Faltas",
+          "valor": ""
+        },
+        {
+          "nome": "Ex50%",
+          "nomeOriginal": "Ex50%",
+          "valor": "00:13"
+        },
+        {
+          "nome": "Ex100%",
+          "nomeOriginal": "Ex100%",
+          "valor": ""
+        },
+        {
+          "nome": "WPR",
+          "nomeOriginal": "DSR",
+          "valor": ""
+        },
+        {
+          "nome": "WPR.Debt",
+          "nomeOriginal": "DSR.Deb",
+          "valor": ""
+        },
+        {
+          "nome": "Noc.",
+          "nomeOriginal": "Not.",
+          "valor": ""
+        },
+        {
+          "nome": "EN50%",
+          "nomeOriginal": "EN50%",
+          "valor": ""
+        },
+        {
+          "nome": "EN100%",
+          "nomeOriginal": "EN100%",
+          "valor": ""
+        },
+        {
+          "nome": "Adjustment",
+          "nomeOriginal": "Ajuste",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus2",
+          "nomeOriginal": "Abono2",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus3",
+          "nomeOriginal": "Abono3",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus4",
+          "nomeOriginal": "Abono4",
+          "valor": ""
+        },
+        {
+          "nome": "Delay",
+          "nomeOriginal": "Atras.",
+          "valor": ""
+        },
+        {
+          "nome": "Advan.",
+          "nomeOriginal": "Adian.",
+          "valor": ""
+        },
+        {
+          "nome": "Load",
+          "nomeOriginal": "Carga",
+          "valor": "08:00"
+        },
+        {
+          "nome": "JustPa.",
+          "nomeOriginal": "JustPa.",
+          "valor": ""
+        },
+        {
+          "nome": "T+/-",
+          "nomeOriginal": "T+/-",
+          "valor": ""
+        },
+        {
+          "nome": "ExInt",
+          "nomeOriginal": "ExInt",
+          "valor": ""
+        },
+        {
+          "nome": "BSaldo",
+          "nomeOriginal": "BSaldo",
+          "valor": "40:00"
+        },
+        {
+          "nome": "BTotal",
+          "nomeOriginal": "BTotal",
+          "valor": "00:41"
+        },
+        {
+          "nome": "BCred.",
+          "nomeOriginal": "BCred.",
+          "valor": "00:41"
+        },
+        {
+          "nome": "BDeb.",
+          "nomeOriginal": "BDeb.",
+          "valor": ""
+        },
+        {
+          "nome": "BAjus.",
+          "nomeOriginal": "BAjus.",
+          "valor": ""
+        },
+        {
+          "nome": "Not.Tot.",
+          "nomeOriginal": "Not.Tot.",
+          "valor": ""
+        },
+        {
+          "nome": "Meal",
+          "nomeOriginal": "Refeição",
+          "valor": ""
+        },
+        {
+          "nome": "Balance",
+          "nomeOriginal": "Saldo",
+          "valor": "00:13"
+        }
+      ],
+      "saldo": "+00:13",
+      "situacao": 0,
+      "registroPendente": false,
+      "existePeriodoEncerrado": false
+    },
+    {
+      "id": 34093,
+      "data": "2023-05-13T00:00:00",
+      "funcionarioNome": "Douglas Yuji Yabuki",
+      "batidas": [
+        {
+          "nome": "Entrance 1",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 1",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Entrance 2",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 2",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Entrance 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        }
+      ],
+      "valores": [
+        {
+          "nome": "Normal",
+          "nomeOriginal": "Normais",
+          "valor": ""
+        },
+        {
+          "nome": "Absences",
+          "nomeOriginal": "Faltas",
+          "valor": ""
+        },
+        {
+          "nome": "Ex50%",
+          "nomeOriginal": "Ex50%",
+          "valor": ""
+        },
+        {
+          "nome": "Ex100%",
+          "nomeOriginal": "Ex100%",
+          "valor": ""
+        },
+        {
+          "nome": "WPR",
+          "nomeOriginal": "DSR",
+          "valor": ""
+        },
+        {
+          "nome": "WPR.Debt",
+          "nomeOriginal": "DSR.Deb",
+          "valor": ""
+        },
+        {
+          "nome": "Noc.",
+          "nomeOriginal": "Not.",
+          "valor": ""
+        },
+        {
+          "nome": "EN50%",
+          "nomeOriginal": "EN50%",
+          "valor": ""
+        },
+        {
+          "nome": "EN100%",
+          "nomeOriginal": "EN100%",
+          "valor": ""
+        },
+        {
+          "nome": "Adjustment",
+          "nomeOriginal": "Ajuste",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus2",
+          "nomeOriginal": "Abono2",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus3",
+          "nomeOriginal": "Abono3",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus4",
+          "nomeOriginal": "Abono4",
+          "valor": ""
+        },
+        {
+          "nome": "Delay",
+          "nomeOriginal": "Atras.",
+          "valor": ""
+        },
+        {
+          "nome": "Advan.",
+          "nomeOriginal": "Adian.",
+          "valor": ""
+        },
+        {
+          "nome": "Load",
+          "nomeOriginal": "Carga",
+          "valor": ""
+        },
+        {
+          "nome": "JustPa.",
+          "nomeOriginal": "JustPa.",
+          "valor": ""
+        },
+        {
+          "nome": "T+/-",
+          "nomeOriginal": "T+/-",
+          "valor": ""
+        },
+        {
+          "nome": "ExInt",
+          "nomeOriginal": "ExInt",
+          "valor": ""
+        },
+        {
+          "nome": "BSaldo",
+          "nomeOriginal": "BSaldo",
+          "valor": "40:00"
+        },
+        {
+          "nome": "BTotal",
+          "nomeOriginal": "BTotal",
+          "valor": ""
+        },
+        {
+          "nome": "BCred.",
+          "nomeOriginal": "BCred.",
+          "valor": ""
+        },
+        {
+          "nome": "BDeb.",
+          "nomeOriginal": "BDeb.",
+          "valor": ""
+        },
+        {
+          "nome": "BAjus.",
+          "nomeOriginal": "BAjus.",
+          "valor": ""
+        },
+        {
+          "nome": "Not.Tot.",
+          "nomeOriginal": "Not.Tot.",
+          "valor": ""
+        },
+        {
+          "nome": "Meal",
+          "nomeOriginal": "Refeição",
+          "valor": ""
+        },
+        {
+          "nome": "Balance",
+          "nomeOriginal": "Saldo",
+          "valor": ""
+        }
+      ],
+      "saldo": "+00:00",
+      "situacao": 0,
+      "registroPendente": false,
+      "existePeriodoEncerrado": false
+    },
+    {
+      "id": 33845,
+      "data": "2023-05-14T00:00:00",
+      "funcionarioNome": "Douglas Yuji Yabuki",
+      "batidas": [
+        {
+          "nome": "Entrance 1",
+          "valor": "Day Off",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 1",
+          "valor": "Day Off",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Entrance 2",
+          "valor": "Day Off",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 2",
+          "valor": "Day Off",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Entrance 3",
+          "valor": "Day Off",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 3",
+          "valor": "Day Off",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        }
+      ],
+      "valores": [
+        {
+          "nome": "Normal",
+          "nomeOriginal": "Normais",
+          "valor": ""
+        },
+        {
+          "nome": "Absences",
+          "nomeOriginal": "Faltas",
+          "valor": ""
+        },
+        {
+          "nome": "Ex50%",
+          "nomeOriginal": "Ex50%",
+          "valor": ""
+        },
+        {
+          "nome": "Ex100%",
+          "nomeOriginal": "Ex100%",
+          "valor": ""
+        },
+        {
+          "nome": "WPR",
+          "nomeOriginal": "DSR",
+          "valor": "06:40"
+        },
+        {
+          "nome": "WPR.Debt",
+          "nomeOriginal": "DSR.Deb",
+          "valor": ""
+        },
+        {
+          "nome": "Noc.",
+          "nomeOriginal": "Not.",
+          "valor": ""
+        },
+        {
+          "nome": "EN50%",
+          "nomeOriginal": "EN50%",
+          "valor": ""
+        },
+        {
+          "nome": "EN100%",
+          "nomeOriginal": "EN100%",
+          "valor": ""
+        },
+        {
+          "nome": "Adjustment",
+          "nomeOriginal": "Ajuste",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus2",
+          "nomeOriginal": "Abono2",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus3",
+          "nomeOriginal": "Abono3",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus4",
+          "nomeOriginal": "Abono4",
+          "valor": ""
+        },
+        {
+          "nome": "Delay",
+          "nomeOriginal": "Atras.",
+          "valor": ""
+        },
+        {
+          "nome": "Advan.",
+          "nomeOriginal": "Adian.",
+          "valor": ""
+        },
+        {
+          "nome": "Load",
+          "nomeOriginal": "Carga",
+          "valor": ""
+        },
+        {
+          "nome": "JustPa.",
+          "nomeOriginal": "JustPa.",
+          "valor": ""
+        },
+        {
+          "nome": "T+/-",
+          "nomeOriginal": "T+/-",
+          "valor": ""
+        },
+        {
+          "nome": "ExInt",
+          "nomeOriginal": "ExInt",
+          "valor": ""
+        },
+        {
+          "nome": "BSaldo",
+          "nomeOriginal": "BSaldo",
+          "valor": "40:00"
+        },
+        {
+          "nome": "BTotal",
+          "nomeOriginal": "BTotal",
+          "valor": ""
+        },
+        {
+          "nome": "BCred.",
+          "nomeOriginal": "BCred.",
+          "valor": ""
+        },
+        {
+          "nome": "BDeb.",
+          "nomeOriginal": "BDeb.",
+          "valor": ""
+        },
+        {
+          "nome": "BAjus.",
+          "nomeOriginal": "BAjus.",
+          "valor": ""
+        },
+        {
+          "nome": "Not.Tot.",
+          "nomeOriginal": "Not.Tot.",
+          "valor": ""
+        },
+        {
+          "nome": "Meal",
+          "nomeOriginal": "Refeição",
+          "valor": ""
+        },
+        {
+          "nome": "Balance",
+          "nomeOriginal": "Saldo",
+          "valor": ""
+        }
+      ],
+      "saldo": "+00:00",
+      "situacao": 0,
+      "registroPendente": false,
+      "existePeriodoEncerrado": false
+    },
+    {
+      "id": 33846,
+      "data": "2023-05-15T00:00:00",
+      "funcionarioNome": "Douglas Yuji Yabuki",
+      "batidas": [
+        {
+          "nome": "Entrance 1",
+          "valor": "07:45",
+          "valorOriginal": "07:45",
+          "fonteDadosId": 17199,
+          "geolocalizacao": {
+            "latitude": -25.4437196,
+            "longitude": -49.2791782,
+            "precisao": 18.170000076293945,
+            "endereco": "Rua Pasteur, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-05-15T07:45:07.7735923"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Exit 1",
+          "valor": "12:00",
+          "valorOriginal": null,
+          "fonteDadosId": 17200,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Entrance 2",
+          "valor": "13:00",
+          "valorOriginal": null,
+          "fonteDadosId": 17201,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 2",
+          "valor": "18:10",
+          "valorOriginal": "18:10",
+          "fonteDadosId": 17314,
+          "geolocalizacao": {
+            "latitude": -25.4436879,
+            "longitude": -49.2791274,
+            "precisao": 15.663999557495117,
+            "endereco": "Rua Pasteur, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-05-15T18:10:38.6918837"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Entrance 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        }
+      ],
+      "valores": [
+        {
+          "nome": "Normal",
+          "nomeOriginal": "Normais",
+          "valor": "08:00"
+        },
+        {
+          "nome": "Absences",
+          "nomeOriginal": "Faltas",
+          "valor": ""
+        },
+        {
+          "nome": "Ex50%",
+          "nomeOriginal": "Ex50%",
+          "valor": "01:25"
+        },
+        {
+          "nome": "Ex100%",
+          "nomeOriginal": "Ex100%",
+          "valor": ""
+        },
+        {
+          "nome": "WPR",
+          "nomeOriginal": "DSR",
+          "valor": ""
+        },
+        {
+          "nome": "WPR.Debt",
+          "nomeOriginal": "DSR.Deb",
+          "valor": ""
+        },
+        {
+          "nome": "Noc.",
+          "nomeOriginal": "Not.",
+          "valor": ""
+        },
+        {
+          "nome": "EN50%",
+          "nomeOriginal": "EN50%",
+          "valor": ""
+        },
+        {
+          "nome": "EN100%",
+          "nomeOriginal": "EN100%",
+          "valor": ""
+        },
+        {
+          "nome": "Adjustment",
+          "nomeOriginal": "Ajuste",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus2",
+          "nomeOriginal": "Abono2",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus3",
+          "nomeOriginal": "Abono3",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus4",
+          "nomeOriginal": "Abono4",
+          "valor": ""
+        },
+        {
+          "nome": "Delay",
+          "nomeOriginal": "Atras.",
+          "valor": ""
+        },
+        {
+          "nome": "Advan.",
+          "nomeOriginal": "Adian.",
+          "valor": ""
+        },
+        {
+          "nome": "Load",
+          "nomeOriginal": "Carga",
+          "valor": "08:00"
+        },
+        {
+          "nome": "JustPa.",
+          "nomeOriginal": "JustPa.",
+          "valor": ""
+        },
+        {
+          "nome": "T+/-",
+          "nomeOriginal": "T+/-",
+          "valor": ""
+        },
+        {
+          "nome": "ExInt",
+          "nomeOriginal": "ExInt",
+          "valor": ""
+        },
+        {
+          "nome": "BSaldo",
+          "nomeOriginal": "BSaldo",
+          "valor": "40:00"
+        },
+        {
+          "nome": "BTotal",
+          "nomeOriginal": "BTotal",
+          "valor": ""
+        },
+        {
+          "nome": "BCred.",
+          "nomeOriginal": "BCred.",
+          "valor": ""
+        },
+        {
+          "nome": "BDeb.",
+          "nomeOriginal": "BDeb.",
+          "valor": ""
+        },
+        {
+          "nome": "BAjus.",
+          "nomeOriginal": "BAjus.",
+          "valor": ""
+        },
+        {
+          "nome": "Not.Tot.",
+          "nomeOriginal": "Not.Tot.",
+          "valor": ""
+        },
+        {
+          "nome": "Meal",
+          "nomeOriginal": "Refeição",
+          "valor": ""
+        },
+        {
+          "nome": "Balance",
+          "nomeOriginal": "Saldo",
+          "valor": "01:25"
+        }
+      ],
+      "saldo": "+01:25",
+      "situacao": 0,
+      "registroPendente": false,
+      "existePeriodoEncerrado": false
+    },
+    {
+      "id": 33926,
+      "data": "2023-05-16T00:00:00",
+      "funcionarioNome": "Douglas Yuji Yabuki",
+      "batidas": [
+        {
+          "nome": "Entrance 1",
+          "valor": "07:45",
+          "valorOriginal": "07:45",
+          "fonteDadosId": 17323,
+          "geolocalizacao": {
+            "latitude": -25.4436766,
+            "longitude": -49.2790736,
+            "precisao": 13.598999977111816,
+            "endereco": "Rua Pasteur, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-05-16T07:45:56.9583764"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Exit 1",
+          "valor": "12:00",
+          "valorOriginal": null,
+          "fonteDadosId": 17324,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Entrance 2",
+          "valor": "13:00",
+          "valorOriginal": null,
+          "fonteDadosId": 17325,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 2",
+          "valor": "16:03",
+          "valorOriginal": "16:03",
+          "fonteDadosId": 17413,
+          "geolocalizacao": {
+            "latitude": -25.4436631,
+            "longitude": -49.2791377,
+            "precisao": 21.290000915527344,
+            "endereco": "Rua Pasteur, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-05-16T16:03:39.7407594"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Entrance 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        }
+      ],
+      "valores": [
+        {
+          "nome": "Normal",
+          "nomeOriginal": "Normais",
+          "valor": "07:18"
+        },
+        {
+          "nome": "Absences",
+          "nomeOriginal": "Faltas",
+          "valor": ""
+        },
+        {
+          "nome": "Ex50%",
+          "nomeOriginal": "Ex50%",
+          "valor": ""
+        },
+        {
+          "nome": "Ex100%",
+          "nomeOriginal": "Ex100%",
+          "valor": ""
+        },
+        {
+          "nome": "WPR",
+          "nomeOriginal": "DSR",
+          "valor": ""
+        },
+        {
+          "nome": "WPR.Debt",
+          "nomeOriginal": "DSR.Deb",
+          "valor": ""
+        },
+        {
+          "nome": "Noc.",
+          "nomeOriginal": "Not.",
+          "valor": ""
+        },
+        {
+          "nome": "EN50%",
+          "nomeOriginal": "EN50%",
+          "valor": ""
+        },
+        {
+          "nome": "EN100%",
+          "nomeOriginal": "EN100%",
+          "valor": ""
+        },
+        {
+          "nome": "Adjustment",
+          "nomeOriginal": "Ajuste",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus2",
+          "nomeOriginal": "Abono2",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus3",
+          "nomeOriginal": "Abono3",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus4",
+          "nomeOriginal": "Abono4",
+          "valor": ""
+        },
+        {
+          "nome": "Delay",
+          "nomeOriginal": "Atras.",
+          "valor": ""
+        },
+        {
+          "nome": "Advan.",
+          "nomeOriginal": "Adian.",
+          "valor": ""
+        },
+        {
+          "nome": "Load",
+          "nomeOriginal": "Carga",
+          "valor": "08:00"
+        },
+        {
+          "nome": "JustPa.",
+          "nomeOriginal": "JustPa.",
+          "valor": ""
+        },
+        {
+          "nome": "T+/-",
+          "nomeOriginal": "T+/-",
+          "valor": ""
+        },
+        {
+          "nome": "ExInt",
+          "nomeOriginal": "ExInt",
+          "valor": ""
+        },
+        {
+          "nome": "BSaldo",
+          "nomeOriginal": "BSaldo",
+          "valor": "39:18"
+        },
+        {
+          "nome": "BTotal",
+          "nomeOriginal": "BTotal",
+          "valor": "-00:42"
+        },
+        {
+          "nome": "BCred.",
+          "nomeOriginal": "BCred.",
+          "valor": ""
+        },
+        {
+          "nome": "BDeb.",
+          "nomeOriginal": "BDeb.",
+          "valor": "00:42"
+        },
+        {
+          "nome": "BAjus.",
+          "nomeOriginal": "BAjus.",
+          "valor": ""
+        },
+        {
+          "nome": "Not.Tot.",
+          "nomeOriginal": "Not.Tot.",
+          "valor": ""
+        },
+        {
+          "nome": "Meal",
+          "nomeOriginal": "Refeição",
+          "valor": ""
+        },
+        {
+          "nome": "Balance",
+          "nomeOriginal": "Saldo",
+          "valor": ""
+        }
+      ],
+      "saldo": "+00:00",
+      "situacao": 1,
+      "registroPendente": false,
+      "existePeriodoEncerrado": false
+    },
+    {
+      "id": 33969,
+      "data": "2023-05-17T00:00:00",
+      "funcionarioNome": "Douglas Yuji Yabuki",
+      "batidas": [
+        {
+          "nome": "Entrance 1",
+          "valor": "07:47",
+          "valorOriginal": "07:47",
+          "fonteDadosId": 17453,
+          "geolocalizacao": {
+            "latitude": -25.4436158,
+            "longitude": -49.2789702,
+            "precisao": 14.428000450134277,
+            "endereco": "Rua Pasteur, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-05-17T07:47:32.3239001"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Exit 1",
+          "valor": "12:00",
+          "valorOriginal": null,
+          "fonteDadosId": 17454,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Entrance 2",
+          "valor": "13:00",
+          "valorOriginal": null,
+          "fonteDadosId": 17455,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 2",
+          "valor": "17:00",
+          "valorOriginal": "17:00",
+          "fonteDadosId": 17601,
+          "geolocalizacao": {
+            "latitude": -25.4437309,
+            "longitude": -49.2790989,
+            "precisao": 18.618999481201172,
+            "endereco": "Rua Pasteur, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-05-17T17:00:23.3245009"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Entrance 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        }
+      ],
+      "valores": [
+        {
+          "nome": "Normal",
+          "nomeOriginal": "Normais",
+          "valor": "08:00"
+        },
+        {
+          "nome": "Absences",
+          "nomeOriginal": "Faltas",
+          "valor": ""
+        },
+        {
+          "nome": "Ex50%",
+          "nomeOriginal": "Ex50%",
+          "valor": ""
+        },
+        {
+          "nome": "Ex100%",
+          "nomeOriginal": "Ex100%",
+          "valor": ""
+        },
+        {
+          "nome": "WPR",
+          "nomeOriginal": "DSR",
+          "valor": ""
+        },
+        {
+          "nome": "WPR.Debt",
+          "nomeOriginal": "DSR.Deb",
+          "valor": ""
+        },
+        {
+          "nome": "Noc.",
+          "nomeOriginal": "Not.",
+          "valor": ""
+        },
+        {
+          "nome": "EN50%",
+          "nomeOriginal": "EN50%",
+          "valor": ""
+        },
+        {
+          "nome": "EN100%",
+          "nomeOriginal": "EN100%",
+          "valor": ""
+        },
+        {
+          "nome": "Adjustment",
+          "nomeOriginal": "Ajuste",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus2",
+          "nomeOriginal": "Abono2",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus3",
+          "nomeOriginal": "Abono3",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus4",
+          "nomeOriginal": "Abono4",
+          "valor": ""
+        },
+        {
+          "nome": "Delay",
+          "nomeOriginal": "Atras.",
+          "valor": ""
+        },
+        {
+          "nome": "Advan.",
+          "nomeOriginal": "Adian.",
+          "valor": ""
+        },
+        {
+          "nome": "Load",
+          "nomeOriginal": "Carga",
+          "valor": "08:00"
+        },
+        {
+          "nome": "JustPa.",
+          "nomeOriginal": "JustPa.",
+          "valor": ""
+        },
+        {
+          "nome": "T+/-",
+          "nomeOriginal": "T+/-",
+          "valor": ""
+        },
+        {
+          "nome": "ExInt",
+          "nomeOriginal": "ExInt",
+          "valor": ""
+        },
+        {
+          "nome": "BSaldo",
+          "nomeOriginal": "BSaldo",
+          "valor": "39:31"
+        },
+        {
+          "nome": "BTotal",
+          "nomeOriginal": "BTotal",
+          "valor": "00:13"
+        },
+        {
+          "nome": "BCred.",
+          "nomeOriginal": "BCred.",
+          "valor": "00:13"
+        },
+        {
+          "nome": "BDeb.",
+          "nomeOriginal": "BDeb.",
+          "valor": ""
+        },
+        {
+          "nome": "BAjus.",
+          "nomeOriginal": "BAjus.",
+          "valor": ""
+        },
+        {
+          "nome": "Not.Tot.",
+          "nomeOriginal": "Not.Tot.",
+          "valor": ""
+        },
+        {
+          "nome": "Meal",
+          "nomeOriginal": "Refeição",
+          "valor": ""
+        },
+        {
+          "nome": "Balance",
+          "nomeOriginal": "Saldo",
+          "valor": ""
+        }
+      ],
+      "saldo": "+00:00",
+      "situacao": 0,
+      "registroPendente": false,
+      "existePeriodoEncerrado": false
+    },
+    {
+      "id": 34016,
+      "data": "2023-05-18T00:00:00",
+      "funcionarioNome": "Douglas Yuji Yabuki",
+      "batidas": [
+        {
+          "nome": "Entrance 1",
+          "valor": "07:53",
+          "valorOriginal": "07:53",
+          "fonteDadosId": 17633,
+          "geolocalizacao": {
+            "latitude": -25.443651,
+            "longitude": -49.2790918,
+            "precisao": 13.258999824523926,
+            "endereco": "Rua Pasteur, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-05-18T07:53:09.3672932"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Exit 1",
+          "valor": "12:00",
+          "valorOriginal": null,
+          "fonteDadosId": 17634,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Entrance 2",
+          "valor": "13:00",
+          "valorOriginal": null,
+          "fonteDadosId": 17635,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 2",
+          "valor": "18:16",
+          "valorOriginal": "18:16",
+          "fonteDadosId": 17753,
+          "geolocalizacao": {
+            "latitude": -25.443681,
+            "longitude": -49.2790973,
+            "precisao": 17.422000885009766,
+            "endereco": "Rua Pasteur, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-05-18T18:16:46.4669105"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Entrance 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        }
+      ],
+      "valores": [
+        {
+          "nome": "Normal",
+          "nomeOriginal": "Normais",
+          "valor": "08:00"
+        },
+        {
+          "nome": "Absences",
+          "nomeOriginal": "Faltas",
+          "valor": ""
+        },
+        {
+          "nome": "Ex50%",
+          "nomeOriginal": "Ex50%",
+          "valor": "00:54"
+        },
+        {
+          "nome": "Ex100%",
+          "nomeOriginal": "Ex100%",
+          "valor": ""
+        },
+        {
+          "nome": "WPR",
+          "nomeOriginal": "DSR",
+          "valor": ""
+        },
+        {
+          "nome": "WPR.Debt",
+          "nomeOriginal": "DSR.Deb",
+          "valor": ""
+        },
+        {
+          "nome": "Noc.",
+          "nomeOriginal": "Not.",
+          "valor": ""
+        },
+        {
+          "nome": "EN50%",
+          "nomeOriginal": "EN50%",
+          "valor": ""
+        },
+        {
+          "nome": "EN100%",
+          "nomeOriginal": "EN100%",
+          "valor": ""
+        },
+        {
+          "nome": "Adjustment",
+          "nomeOriginal": "Ajuste",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus2",
+          "nomeOriginal": "Abono2",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus3",
+          "nomeOriginal": "Abono3",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus4",
+          "nomeOriginal": "Abono4",
+          "valor": ""
+        },
+        {
+          "nome": "Delay",
+          "nomeOriginal": "Atras.",
+          "valor": ""
+        },
+        {
+          "nome": "Advan.",
+          "nomeOriginal": "Adian.",
+          "valor": ""
+        },
+        {
+          "nome": "Load",
+          "nomeOriginal": "Carga",
+          "valor": "08:00"
+        },
+        {
+          "nome": "JustPa.",
+          "nomeOriginal": "JustPa.",
+          "valor": ""
+        },
+        {
+          "nome": "T+/-",
+          "nomeOriginal": "T+/-",
+          "valor": ""
+        },
+        {
+          "nome": "ExInt",
+          "nomeOriginal": "ExInt",
+          "valor": ""
+        },
+        {
+          "nome": "BSaldo",
+          "nomeOriginal": "BSaldo",
+          "valor": "40:00"
+        },
+        {
+          "nome": "BTotal",
+          "nomeOriginal": "BTotal",
+          "valor": "00:29"
+        },
+        {
+          "nome": "BCred.",
+          "nomeOriginal": "BCred.",
+          "valor": "00:29"
+        },
+        {
+          "nome": "BDeb.",
+          "nomeOriginal": "BDeb.",
+          "valor": ""
+        },
+        {
+          "nome": "BAjus.",
+          "nomeOriginal": "BAjus.",
+          "valor": ""
+        },
+        {
+          "nome": "Not.Tot.",
+          "nomeOriginal": "Not.Tot.",
+          "valor": ""
+        },
+        {
+          "nome": "Meal",
+          "nomeOriginal": "Refeição",
+          "valor": ""
+        },
+        {
+          "nome": "Balance",
+          "nomeOriginal": "Saldo",
+          "valor": "00:54"
+        }
+      ],
+      "saldo": "+00:54",
+      "situacao": 0,
+      "registroPendente": false,
+      "existePeriodoEncerrado": false
+    },
+    {
+      "id": 34067,
+      "data": "2023-05-19T00:00:00",
+      "funcionarioNome": "Douglas Yuji Yabuki",
+      "batidas": [
+        {
+          "nome": "Entrance 1",
+          "valor": "08:02",
+          "valorOriginal": "08:02",
+          "fonteDadosId": 17808,
+          "geolocalizacao": {
+            "latitude": -25.4436754,
+            "longitude": -49.2790957,
+            "precisao": 15.656999588012695,
+            "endereco": "Rua Pasteur, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-05-19T08:02:00.1291088"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Exit 1",
+          "valor": "12:00",
+          "valorOriginal": null,
+          "fonteDadosId": 17809,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Entrance 2",
+          "valor": "13:00",
+          "valorOriginal": null,
+          "fonteDadosId": 17810,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 2",
+          "valor": "16:29",
+          "valorOriginal": "16:29",
+          "fonteDadosId": 18041,
+          "geolocalizacao": {
+            "latitude": -25.4436886,
+            "longitude": -49.2791002,
+            "precisao": 16.316999435424805,
+            "endereco": "Rua Pasteur, Curitiba, Paraná, Brasil",
+            "dataHora": "2023-05-19T16:29:40.0206234"
+          },
+          "ehRepP": true
+        },
+        {
+          "nome": "Entrance 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        }
+      ],
+      "valores": [
+        {
+          "nome": "Normal",
+          "nomeOriginal": "Normais",
+          "valor": "07:29"
+        },
+        {
+          "nome": "Absences",
+          "nomeOriginal": "Faltas",
+          "valor": ""
+        },
+        {
+          "nome": "Ex50%",
+          "nomeOriginal": "Ex50%",
+          "valor": ""
+        },
+        {
+          "nome": "Ex100%",
+          "nomeOriginal": "Ex100%",
+          "valor": ""
+        },
+        {
+          "nome": "WPR",
+          "nomeOriginal": "DSR",
+          "valor": ""
+        },
+        {
+          "nome": "WPR.Debt",
+          "nomeOriginal": "DSR.Deb",
+          "valor": ""
+        },
+        {
+          "nome": "Noc.",
+          "nomeOriginal": "Not.",
+          "valor": ""
+        },
+        {
+          "nome": "EN50%",
+          "nomeOriginal": "EN50%",
+          "valor": ""
+        },
+        {
+          "nome": "EN100%",
+          "nomeOriginal": "EN100%",
+          "valor": ""
+        },
+        {
+          "nome": "Adjustment",
+          "nomeOriginal": "Ajuste",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus2",
+          "nomeOriginal": "Abono2",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus3",
+          "nomeOriginal": "Abono3",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus4",
+          "nomeOriginal": "Abono4",
+          "valor": ""
+        },
+        {
+          "nome": "Delay",
+          "nomeOriginal": "Atras.",
+          "valor": ""
+        },
+        {
+          "nome": "Advan.",
+          "nomeOriginal": "Adian.",
+          "valor": ""
+        },
+        {
+          "nome": "Load",
+          "nomeOriginal": "Carga",
+          "valor": "08:00"
+        },
+        {
+          "nome": "JustPa.",
+          "nomeOriginal": "JustPa.",
+          "valor": ""
+        },
+        {
+          "nome": "T+/-",
+          "nomeOriginal": "T+/-",
+          "valor": ""
+        },
+        {
+          "nome": "ExInt",
+          "nomeOriginal": "ExInt",
+          "valor": ""
+        },
+        {
+          "nome": "BSaldo",
+          "nomeOriginal": "BSaldo",
+          "valor": "39:29"
+        },
+        {
+          "nome": "BTotal",
+          "nomeOriginal": "BTotal",
+          "valor": "-00:31"
+        },
+        {
+          "nome": "BCred.",
+          "nomeOriginal": "BCred.",
+          "valor": ""
+        },
+        {
+          "nome": "BDeb.",
+          "nomeOriginal": "BDeb.",
+          "valor": "00:31"
+        },
+        {
+          "nome": "BAjus.",
+          "nomeOriginal": "BAjus.",
+          "valor": ""
+        },
+        {
+          "nome": "Not.Tot.",
+          "nomeOriginal": "Not.Tot.",
+          "valor": ""
+        },
+        {
+          "nome": "Meal",
+          "nomeOriginal": "Refeição",
+          "valor": ""
+        },
+        {
+          "nome": "Balance",
+          "nomeOriginal": "Saldo",
+          "valor": ""
+        }
+      ],
+      "saldo": "+00:00",
+      "situacao": 1,
+      "registroPendente": false,
+      "existePeriodoEncerrado": false
+    },
+    {
+      "id": 34181,
+      "data": "2023-05-20T00:00:00",
+      "funcionarioNome": "Douglas Yuji Yabuki",
+      "batidas": [
+        {
+          "nome": "Entrance 1",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 1",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Entrance 2",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 2",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Entrance 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 3",
+          "valor": "",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        }
+      ],
+      "valores": [
+        {
+          "nome": "Normal",
+          "nomeOriginal": "Normais",
+          "valor": ""
+        },
+        {
+          "nome": "Absences",
+          "nomeOriginal": "Faltas",
+          "valor": ""
+        },
+        {
+          "nome": "Ex50%",
+          "nomeOriginal": "Ex50%",
+          "valor": ""
+        },
+        {
+          "nome": "Ex100%",
+          "nomeOriginal": "Ex100%",
+          "valor": ""
+        },
+        {
+          "nome": "WPR",
+          "nomeOriginal": "DSR",
+          "valor": ""
+        },
+        {
+          "nome": "WPR.Debt",
+          "nomeOriginal": "DSR.Deb",
+          "valor": ""
+        },
+        {
+          "nome": "Noc.",
+          "nomeOriginal": "Not.",
+          "valor": ""
+        },
+        {
+          "nome": "EN50%",
+          "nomeOriginal": "EN50%",
+          "valor": ""
+        },
+        {
+          "nome": "EN100%",
+          "nomeOriginal": "EN100%",
+          "valor": ""
+        },
+        {
+          "nome": "Adjustment",
+          "nomeOriginal": "Ajuste",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus2",
+          "nomeOriginal": "Abono2",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus3",
+          "nomeOriginal": "Abono3",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus4",
+          "nomeOriginal": "Abono4",
+          "valor": ""
+        },
+        {
+          "nome": "Delay",
+          "nomeOriginal": "Atras.",
+          "valor": ""
+        },
+        {
+          "nome": "Advan.",
+          "nomeOriginal": "Adian.",
+          "valor": ""
+        },
+        {
+          "nome": "Load",
+          "nomeOriginal": "Carga",
+          "valor": ""
+        },
+        {
+          "nome": "JustPa.",
+          "nomeOriginal": "JustPa.",
+          "valor": ""
+        },
+        {
+          "nome": "T+/-",
+          "nomeOriginal": "T+/-",
+          "valor": ""
+        },
+        {
+          "nome": "ExInt",
+          "nomeOriginal": "ExInt",
+          "valor": ""
+        },
+        {
+          "nome": "BSaldo",
+          "nomeOriginal": "BSaldo",
+          "valor": "39:29"
+        },
+        {
+          "nome": "BTotal",
+          "nomeOriginal": "BTotal",
+          "valor": ""
+        },
+        {
+          "nome": "BCred.",
+          "nomeOriginal": "BCred.",
+          "valor": ""
+        },
+        {
+          "nome": "BDeb.",
+          "nomeOriginal": "BDeb.",
+          "valor": ""
+        },
+        {
+          "nome": "BAjus.",
+          "nomeOriginal": "BAjus.",
+          "valor": ""
+        },
+        {
+          "nome": "Not.Tot.",
+          "nomeOriginal": "Not.Tot.",
+          "valor": ""
+        },
+        {
+          "nome": "Meal",
+          "nomeOriginal": "Refeição",
+          "valor": ""
+        },
+        {
+          "nome": "Balance",
+          "nomeOriginal": "Saldo",
+          "valor": ""
+        }
+      ],
+      "saldo": "+00:00",
+      "situacao": 0,
+      "registroPendente": false,
+      "existePeriodoEncerrado": false
+    },
+    {
+      "id": 34142,
+      "data": "2023-05-21T00:00:00",
+      "funcionarioNome": "Douglas Yuji Yabuki",
+      "batidas": [
+        {
+          "nome": "Entrance 1",
+          "valor": "Day Off",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 1",
+          "valor": "Day Off",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Entrance 2",
+          "valor": "Day Off",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 2",
+          "valor": "Day Off",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Entrance 3",
+          "valor": "Day Off",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        },
+        {
+          "nome": "Exit 3",
+          "valor": "Day Off",
+          "valorOriginal": null,
+          "fonteDadosId": null,
+          "geolocalizacao": null,
+          "ehRepP": false
+        }
+      ],
+      "valores": [
+        {
+          "nome": "Normal",
+          "nomeOriginal": "Normais",
+          "valor": ""
+        },
+        {
+          "nome": "Absences",
+          "nomeOriginal": "Faltas",
+          "valor": ""
+        },
+        {
+          "nome": "Ex50%",
+          "nomeOriginal": "Ex50%",
+          "valor": ""
+        },
+        {
+          "nome": "Ex100%",
+          "nomeOriginal": "Ex100%",
+          "valor": ""
+        },
+        {
+          "nome": "WPR",
+          "nomeOriginal": "DSR",
+          "valor": "06:40"
+        },
+        {
+          "nome": "WPR.Debt",
+          "nomeOriginal": "DSR.Deb",
+          "valor": ""
+        },
+        {
+          "nome": "Noc.",
+          "nomeOriginal": "Not.",
+          "valor": ""
+        },
+        {
+          "nome": "EN50%",
+          "nomeOriginal": "EN50%",
+          "valor": ""
+        },
+        {
+          "nome": "EN100%",
+          "nomeOriginal": "EN100%",
+          "valor": ""
+        },
+        {
+          "nome": "Adjustment",
+          "nomeOriginal": "Ajuste",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus2",
+          "nomeOriginal": "Abono2",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus3",
+          "nomeOriginal": "Abono3",
+          "valor": ""
+        },
+        {
+          "nome": "Bonus4",
+          "nomeOriginal": "Abono4",
+          "valor": ""
+        },
+        {
+          "nome": "Delay",
+          "nomeOriginal": "Atras.",
+          "valor": ""
+        },
+        {
+          "nome": "Advan.",
+          "nomeOriginal": "Adian.",
+          "valor": ""
+        },
+        {
+          "nome": "Load",
+          "nomeOriginal": "Carga",
+          "valor": ""
+        },
+        {
+          "nome": "JustPa.",
+          "nomeOriginal": "JustPa.",
+          "valor": ""
+        },
+        {
+          "nome": "T+/-",
+          "nomeOriginal": "T+/-",
+          "valor": ""
+        },
+        {
+          "nome": "ExInt",
+          "nomeOriginal": "ExInt",
+          "valor": ""
+        },
+        {
+          "nome": "BSaldo",
+          "nomeOriginal": "BSaldo",
+          "valor": "39:29"
+        },
+        {
+          "nome": "BTotal",
+          "nomeOriginal": "BTotal",
+          "valor": ""
+        },
+        {
+          "nome": "BCred.",
+          "nomeOriginal": "BCred.",
+          "valor": ""
+        },
+        {
+          "nome": "BDeb.",
+          "nomeOriginal": "BDeb.",
+          "valor": ""
+        },
+        {
+          "nome": "BAjus.",
+          "nomeOriginal": "BAjus.",
+          "valor": ""
+        },
+        {
+          "nome": "Not.Tot.",
+          "nomeOriginal": "Not.Tot.",
+          "valor": ""
+        },
+        {
+          "nome": "Meal",
+          "nomeOriginal": "Refeição",
+          "valor": ""
+        },
+        {
+          "nome": "Balance",
+          "nomeOriginal": "Saldo",
+          "valor": ""
+        }
+      ],
+      "saldo": "+00:00",
+      "situacao": 0,
+      "registroPendente": false,
+      "existePeriodoEncerrado": false
+    }
+  ],
+  "justificativas": [
+    {
+      "nomeAbreviado": "ABONO",
+      "nomeCompleto": "ABONO"
+    },
+    {
+      "nomeAbreviado": "ATES",
+      "nomeCompleto": "ATESTADO "
+    },
+    {
+      "nomeAbreviado": "ATES OB",
+      "nomeCompleto": "ATESTADO DE OBITO"
+    },
+    {
+      "nomeAbreviado": "B-DAY ",
+      "nomeCompleto": "B-DAY OFF"
+    },
+    {
+      "nomeAbreviado": "CASAMEN",
+      "nomeCompleto": "LICENÇA CASAMENTO"
+    },
+    {
+      "nomeAbreviado": "DECLARA",
+      "nomeCompleto": "DECLARAÇÃO DE COMPARECIMENTO"
+    },
+    {
+      "nomeAbreviado": "FÉRIAS",
+      "nomeCompleto": "FÉRIAS"
+    },
+    {
+      "nomeAbreviado": "INSS",
+      "nomeCompleto": "AFASTAMENTO INSS"
+    },
+    {
+      "nomeAbreviado": "NASCIM",
+      "nomeCompleto": "NASCIMENTO"
+    }
+  ],
+  "totais": [
+    {
+      "nome": "Normal",
+      "nomeOriginal": "Normais",
+      "valor": "150:47"
+    },
+    {
+      "nome": "Absences",
+      "nomeOriginal": "Faltas",
+      "valor": "00:00"
+    },
+    {
+      "nome": "Ex50%",
+      "nomeOriginal": "Ex50%",
+      "valor": "12:24"
+    },
+    {
+      "nome": "Ex100%",
+      "nomeOriginal": "Ex100%",
+      "valor": "00:00"
+    },
+    {
+      "nome": "WPR",
+      "nomeOriginal": "DSR",
+      "valor": "33:20"
+    },
+    {
+      "nome": "WPR.Debt",
+      "nomeOriginal": "DSR.Deb",
+      "valor": "00:00"
+    },
+    {
+      "nome": "Noc.",
+      "nomeOriginal": "Not.",
+      "valor": "00:00"
+    },
+    {
+      "nome": "EN50%",
+      "nomeOriginal": "EN50%",
+      "valor": "00:00"
+    },
+    {
+      "nome": "EN100%",
+      "nomeOriginal": "EN100%",
+      "valor": "00:00"
+    },
+    {
+      "nome": "Adjustment",
+      "nomeOriginal": "Ajuste",
+      "valor": "00:00"
+    },
+    {
+      "nome": "Bonus2",
+      "nomeOriginal": "Abono2",
+      "valor": "00:00"
+    },
+    {
+      "nome": "Bonus3",
+      "nomeOriginal": "Abono3",
+      "valor": "00:00"
+    },
+    {
+      "nome": "Bonus4",
+      "nomeOriginal": "Abono4",
+      "valor": "00:00"
+    },
+    {
+      "nome": "Delay",
+      "nomeOriginal": "Atras.",
+      "valor": "00:00"
+    },
+    {
+      "nome": "Advan.",
+      "nomeOriginal": "Adian.",
+      "valor": "00:00"
+    },
+    {
+      "nome": "Load",
+      "nomeOriginal": "Carga",
+      "valor": "152:00"
+    },
+    {
+      "nome": "JustPa.",
+      "nomeOriginal": "JustPa.",
+      "valor": ""
+    },
+    {
+      "nome": "T+/-",
+      "nomeOriginal": "T+/-",
+      "valor": "00:00"
+    },
+    {
+      "nome": "ExInt",
+      "nomeOriginal": "ExInt",
+      "valor": "00:00"
+    },
+    {
+      "nome": "BSaldo",
+      "nomeOriginal": "BSaldo",
+      "valor": "39:29"
+    },
+    {
+      "nome": "BTotal",
+      "nomeOriginal": "BTotal",
+      "valor": "39:29"
+    },
+    {
+      "nome": "BCred.",
+      "nomeOriginal": "BCred.",
+      "valor": "40:42"
+    },
+    {
+      "nome": "BDeb.",
+      "nomeOriginal": "BDeb.",
+      "valor": "01:13"
+    },
+    {
+      "nome": "BAjus.",
+      "nomeOriginal": "BAjus.",
+      "valor": "00:00"
+    },
+    {
+      "nome": "Not.Tot.",
+      "nomeOriginal": "Not.Tot.",
+      "valor": "00:00"
+    },
+    {
+      "nome": "Meal",
+      "nomeOriginal": "Refeição",
+      "valor": "0"
+    },
+    {
+      "nome": "Balance",
+      "nomeOriginal": "Saldo",
+      "valor": "12:24"
+    }
+  ],
+  "opcoesCartaoPonto": {
+    "funcionarioId": 11,
+    "exibirTermosMTB": false,
+    "exibirTotaisNoRodape": true,
+    "exibirMiniaturaDoHorario": true,
+    "exibirEventos": false,
+    "modoPaisagem": false,
+    "exibirJustificativas": false,
+    "justificativasPreenchidasUsuario": false,
+    "exibirLegendasJustificativas": false,
+    "colunasSelecionadasImpressao": [
+      "Entrada 1",
+      "Saída 1",
+      "Entrada 2",
+      "Saída 2",
+      "Entrada 3",
+      "Saída 3",
+      "Normais",
+      "Faltas",
+      "DSR",
+      "Carga",
+      "Saldo"
+    ]
+  }
+}
