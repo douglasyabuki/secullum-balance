@@ -14,6 +14,7 @@ export default function InputJson({ tableData, setTableData }: IInputJsonProps) 
       const newTableData = transformPastedData(pastedText);
       if (newTableData) {
         setTableData(newTableData);
+        console.log(newTableData);
       }
     }
   };
@@ -24,7 +25,7 @@ export default function InputJson({ tableData, setTableData }: IInputJsonProps) 
       const serializedTableData = JSON.stringify(tableData);
       const serializedParsedData = JSON.stringify(parsedData);
 
-      if (serializedParsedData === serializedTableData) {
+      if (typeof serializedParsedData === typeof serializedTableData) {
         return parsedData;
       }
 
