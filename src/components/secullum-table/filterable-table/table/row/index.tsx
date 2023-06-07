@@ -1,4 +1,3 @@
-import * as React from 'react';
 import { List } from '../../../../../interfaces/table-data';
 export interface RowProps {
   id: number;
@@ -15,15 +14,14 @@ export default function Row({ item, id }: RowProps) {
   const leavingB = item.batidas[3].valor ? item.batidas[3].valor : `00:00`
   const entranceC = item.batidas[4].valor ? item.batidas[4].valor : `00:00`
   const leavingC = item.batidas[5].valor ? item.batidas[5].valor : `00:00`
-  
+
   const hoursToMinutes = (value: string) => {
     const originalValue = value.split(':');
     const minutes = Number(originalValue[0]) * 60 + Number(originalValue[1]);
     return minutes;
   };
-  
+
   const minutesToHours = (value: number) => {
-    const originalValue = value;
     const hours = Math.floor(value/60);
     const minutes = Math.floor(value%60);
     const stringifiedValue = `${hours}:${`${minutes}`.length === 1 ? `0${minutes}` : minutes}`
@@ -34,7 +32,7 @@ export default function Row({ item, id }: RowProps) {
     const stringArr = value.split(':');
     return !isNaN(Number(stringArr[0])) && !isNaN(Number(stringArr[1]))
   }
-  
+
   const calculateBalance = (e1: string, e2: string, e3:string, l1:string, l2:string, l3:string) => {
     const e1minutes = isTimeFormat(e1) ? hoursToMinutes(e1) : 0
     const e2minutes = isTimeFormat(e2) ? hoursToMinutes(e2) : 0
@@ -44,35 +42,35 @@ export default function Row({ item, id }: RowProps) {
     const l3minutes = isTimeFormat(l3) ? hoursToMinutes(l3) : 0
     const total = l1minutes + l2minutes + l3minutes - (e1minutes + e2minutes + e3minutes)
     const totalTime = minutesToHours(total)
-    return totalTime; 
+    return totalTime;
   }
-  
+
   const total = calculateBalance(entranceA, entranceB, entranceC, leavingA, leavingB, leavingC)
 
   return (
     <>
-      <td className={`text-center ${id % 2 === 0 ? `bg-neutral-900` : `bg-neutral-700`}`}>
+      <td className={`text-center`}>
         {fullDate}
       </td>
-      <td className={`text-center ${id % 2 === 0 ? `bg-neutral-900` : `bg-neutral-700`}`}>
+      <td className={`text-center`}>
         {entranceA}
       </td>
-      <td className={`text-center ${id % 2 === 0 ? `bg-neutral-900` : `bg-neutral-700`}`}>
+      <td className={`text-center`}>
         {leavingA}
       </td>
-      <td className={`text-center ${id % 2 === 0 ? `bg-neutral-900` : `bg-neutral-700`}`}>
+      <td className={`text-center`}>
         {entranceB}
       </td>
-      <td className={`text-center ${id % 2 === 0 ? `bg-neutral-900` : `bg-neutral-700`}`}>
+      <td className={`text-center`}>
         {leavingB}
       </td>
-      <td className={`text-center ${id % 2 === 0 ? `bg-neutral-900` : `bg-neutral-700`}`}>
+      <td className={`text-center`}>
         {entranceC}
       </td>
-      <td className={`text-center ${id % 2 === 0 ? `bg-neutral-900` : `bg-neutral-700`}`}>
+      <td className={`text-center`}>
         {leavingC}
       </td>
-      <td className={`text-center ${id % 2 === 0 ? `bg-neutral-900` : `bg-neutral-700`}`}>{total}</td>
+      <td className={`text-center`}>{total}</td>
     </>
   );
 }

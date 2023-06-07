@@ -23,7 +23,7 @@ export default function Table({ tableData }: TableProps) {
         </tr>
         {list && list !== undefined ? (
           list.map((item, id) => (
-            <tr key={id} className={`border-y-2 border-x-gray-400 text-sm`}>
+            <tr key={id} className={`border-y-2 border-x-gray-400 text-sm ${id % 2 === 0 ? `bg-neutral-900` : `bg-neutral-700`} hover:bg-slate-400 transition-colors duration-300`}>
               <Row id={id} item={item}></Row>
             </tr>
           ))
