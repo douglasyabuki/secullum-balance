@@ -10,7 +10,7 @@ export interface IFilterableTableProps {
 export default function FilterableTable ({tableData, setTableData}: IFilterableTableProps) {
   return (
     <>
-    <Filters></Filters>
+      <Filters></Filters>
       <Table tableData={tableData}></Table>
     </>
   );

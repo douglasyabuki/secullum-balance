@@ -13,6 +13,7 @@ export default function Table({ tableData }: TableProps) {
       <table className={`w-[100%] rounded-xl border-2 shadow-lg`}>
         <tr>
           <th>Data</th>
+          <th>Dia da Semana</th>
           <th>Entrada 1</th>
           <th>Saída 1</th>
           <th>Entrada 2</th>

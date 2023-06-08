@@ -4,16 +4,27 @@ export interface RowProps {
   item: List;
 }
 
+enum Weekday {
+  Domingo,
+  Segunda,
+  Terça,
+  Quarta,
+  Quinta,
+  Sexta,
+  Sábado
+}
+
 export default function Row({ item, id }: RowProps) {
   const batidas = item.batidas
   const date = new Date(item.data);
+  const weekDay = date.getDay()
   const fullDate = date.toLocaleDateString('pt-BR');
-  const entranceA = item.batidas[0].valor ? item.batidas[0].valor : `00:00`
-  const leavingA = item.batidas[1].valor ? item.batidas[1].valor : `00:00`
-  const entranceB = item.batidas[2].valor ? item.batidas[2].valor : `00:00`
-  const leavingB = item.batidas[3].valor ? item.batidas[3].valor : `00:00`
-  const entranceC = item.batidas[4].valor ? item.batidas[4].valor : `00:00`
-  const leavingC = item.batidas[5].valor ? item.batidas[5].valor : `00:00`
+  const entranceA = batidas[0].valor ? batidas[0].valor : `00:00`
+  const leavingA = batidas[1].valor ? batidas[1].valor : `00:00`
+  const entranceB = batidas[2].valor ? batidas[2].valor : `00:00`
+  const leavingB = batidas[3].valor ? batidas[3].valor : `00:00`
+  const entranceC = batidas[4].valor ? batidas[4].valor : `00:00`
+  const leavingC = batidas[5].valor ? batidas[5].valor : `00:00`
 
   const hoursToMinutes = (value: string) => {
     const originalValue = value.split(':');
@@ -51,6 +62,9 @@ export default function Row({ item, id }: RowProps) {
     <>
       <td className={`text-center`}>
         {fullDate}
+      </td>
+      <td className={`text-center`}>
+        {Weekday[weekDay]}
       </td>
       <td className={`text-center`}>
         {entranceA}
