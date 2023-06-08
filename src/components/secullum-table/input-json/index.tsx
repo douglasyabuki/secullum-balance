@@ -7,6 +7,11 @@ export interface IInputJsonProps {
 }
 
 export default function InputJson({ tableData, setTableData }: IInputJsonProps) {
+  const handleChange = (event: React.ChangeEvent<HTMLInputElement>) => {
+    const parsedData = JSON.parse(event.target.value)
+    if (typeof parsedData === typeof tableData) setTableData(parsedData)
+  };
+
   const handlePaste = (event: React.ClipboardEvent<HTMLInputElement>) => {
     const clipboardData = event.clipboardData;
     if (clipboardData) {
@@ -38,8 +43,14 @@ export default function InputJson({ tableData, setTableData }: IInputJsonProps) 
   };
 
   return (
-    <div className='text-black'>
-      <input type="text" className="p-2 text-xs w-[100%] border-2 border-black" onPaste={handlePaste} />
+    <div className="text-black">
+      <input
+        type="text"
+        className="w-[100%] border-2 border-black p-2 text-xs"
+        onPaste={handlePaste}
+        onChange={handleChange}
+        placeholder="Insira aqui o JSON"
+      />
     </div>
   );
 }
