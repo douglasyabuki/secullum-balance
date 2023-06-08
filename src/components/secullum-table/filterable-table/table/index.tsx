@@ -1,12 +1,14 @@
 import * as React from 'react';
 import Row from './row';
 import { SecullumList } from '../../../../interfaces/table-data';
+import { TableFilters } from '..';
 
 export interface TableProps {
   tableData: SecullumList;
+  filters: TableFilters
 }
 
-export default function Table({ tableData }: TableProps) {
+export default function Table({ tableData, filters }: TableProps) {
   const list = tableData.lista;
   return (
     <>

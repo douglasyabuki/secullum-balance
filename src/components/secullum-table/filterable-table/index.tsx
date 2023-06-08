@@ -1,17 +1,27 @@
-import * as React from 'react';
+import React, { useState } from 'react';
 import Filters from './filters';
 import Table from './table';
 import { SecullumList } from '../../../interfaces/table-data';
-export interface IFilterableTableProps {
+interface FilterableTableProps {
   tableData: SecullumList;
-  setTableData: React.Dispatch<React.SetStateAction<SecullumList>>;
 }
 
-export default function FilterableTable ({tableData, setTableData}: IFilterableTableProps) {
+export interface TableFilters {
+  day: string;
+  weekday: string;
+}
+
+const initialFilters: TableFilters = {
+  day: '',
+  weekday: ''
+}
+
+export default function FilterableTable({ tableData }: FilterableTableProps) {
+  const [filters, setFilters] = useState<TableFilters>(initialFilters);
   return (
     <>
-      <Filters></Filters>
-      <Table tableData={tableData}></Table>
+      <Filters filters={filters} setFilters={setFilters}></Filters>
+      <Table tableData={tableData} filters={filters}></Table>
     </>
   );
 }
